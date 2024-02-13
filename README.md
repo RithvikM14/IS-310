@@ -1,1 +1,1 @@
-# IS-310
+# IS-310 Coding Assignments
