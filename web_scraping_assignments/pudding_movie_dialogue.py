@@ -16,7 +16,7 @@ with open('pudding_movie_dialogue.csv', 'w', encoding='utf-8') as file:
     writer = csv.writer(file)
     
     # Write the header row to the CSV file
-    writer.writerow(['Link', 'Dialogue Text'])
+    writer.writerow(['Link', 'Script'])
     
     # Loop through each URL in the 'link' column
     for link in links:
