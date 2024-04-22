@@ -1,0 +1,2360 @@
+Link,Text,Volume
+Humanist.21.542-21.680.txt,"Return-Path: 
+Received: from fep16.clear.net.nz (fep16 [192.168.16.117]) by local-daemon (CLEAR Net Mail) with ESMTP id <0JW8004CZFG490E0@local-daemon> for ccreegan@clear.net.nz; Fri, 15 Feb 2008 03:12:43 +1300 (NZDT)
+Received: from mxin3-orange.clear.net.nz (lb2-srcnat.clear.net.nz [203.97.32.237]) by mx8.clear.net.nz (CLEAR Net Mail) with ESMTP id <0JW800046FGRPL30@mx8.clear.net.nz> for ccreegan@clear.net.nz; Fri, 15 Feb 2008 03:12:31 +1300 (NZDT)
+Received: from postoffice05.princeton.edu (HELO Princeton.EDU) ([128.112.133.189]) by mxin3-orange.clear.net.nz with ESMTP; Fri, 15 Feb 2008 03:12:30 +1300
+Content-Transfer-Encoding: 7bit
+Received: from smtpserver2.Princeton.EDU (smtpserver2.Princeton.EDU [128.112.129.148])	by Princeton.EDU (8.13.8/8.13.8) with ESMTP id m1EEAwdJ029031; Thu, 14 Feb 2008 09:10:59 -0500 (EST)
+X-Priority: 3
+X-MSMail-Priority: Normal
+Received: from lists.Princeton.EDU (listsv440.Princeton.EDU [128.112.131.10]) by smtpserver2.Princeton.EDU (8.12.9/8.12.9) with ESMTP id m1E2DBDj015915; Thu, 14 Feb 2008 09:10:01 -0500 (EST)
+Received: by LISTS.PRINCETON.EDU (LISTSERV-TCP/IP release 15.0) with spool id 18772855 for humanist@LISTS.PRINCETON.EDU; Thu, 14 Feb 2008 09:02:33 -0500
+X-MimeOLE: Produced By Microsoft MimeOLE V6.0.6002.18463
+Received: from Princeton.EDU (postoffice03.Princeton.EDU [128.112.131.174]) by lists.Princeton.EDU (8.13.1/8.13.1) with ESMTP id m1DF7wpI021691 for ; Wed, 13 Feb 2008 10:07:58 -0500 (EST)
+Received: from Princeton.EDU (postoffice03.Princeton.EDU [128.112.131.174]) by Princeton.EDU (8.13.8/8.13.8) with ESMTP id m1DF7wAl010348 for ; Wed, 13 Feb 2008 10:07:58 -0500 (EST)
+Received: from emfw4.Princeton.EDU (emfw4.Princeton.EDU [128.112.131.23]) by Princeton.EDU (8.13.8/8.13.8) with ESMTP id m1DF7rrs010334 for ; Wed, 13 Feb 2008 10:07:58 -0500 (EST)
+Received: from mail115.messagelabs.com (localhost [127.0.0.1]) by emfw4.Princeton.EDU (Spam Firewall) with ESMTP id 55A751A269C for ; Wed, 13 Feb 2008 10:07:52 -0500 (EST)
+Received: from mail115.messagelabs.com (mail115.messagelabs.com [195.245.231.179]) by emfw4.Princeton.EDU with ESMTP id 7RAQZbQQZyPWubcp for ; Wed, 13 Feb 2008 10:07:52 -0500 (EST)
+Received: (qmail 19732 invoked from network); Wed, 13 Feb 2008 15:07:46 +0000
+Received: from outbound.kcl.ac.uk (HELO outbound.kcl.ac.uk) (137.73.2.214) by server-15.tower-115.messagelabs.com with AES256-SHA encrypted SMTP; Wed, 13 Feb 2008 15:07:46 +0000
+Received: from relay2.kcl.ac.uk ([137.73.2.210] helo=elder) by outbound.kcl.ac.uk outbound with esmtp (TLSv1:DHE-RSA-AES256-SHA:256) id 1JPJCm-00048C-Df for humanist@princeton.edu; Wed, 13 Feb 2008 15:07:24 +0000
+Received: from c-67-161-68-72.hsd1.ca.comcast.net ([67.161.68.72] helo=littlewolf2.kcl.ac.uk) by elder smtp with esmtp (TLSv1:DHE-RSA-AES256-SHA:256) id 1JPIjE-00055h-DE for humanist@princeton.edu; Wed, 13 Feb 2008 14:36:54 +0000
+Date: Wed, 13 Feb 2008 14:36:43 +0000
+From: ""Humanist Discussion Group \(by way of Willard McCarty              \)"" 
+Subject: 21.542 ""anywhere you want to go""
+X-Originating-IP: [137.73.2.214]
+Sender: ""Humanist Discussion Group"" 
+Approved-by: willard@LISTS.VILLAGE.VIRGINIA.EDU
+X-Envelope-To: ccreegan@clear.net.nz
+To: 
+X-To: Humanist Discussion Group 
+Reply-To: ""Humanist Discussion Group \(by way of Willard McCarty              \)"" 
+Message-ID: <20080213150752.55A751A269C@emfw4.Princeton.EDU>
+MIME-Version: 1.0
+X-Mailer: QUALCOMM Windows Eudora Version 7.1.0.9
+Content-Type: text/plain;
+	format=flowed;
+	charset=""us-ascii""
+Precedence: list
+X-ASG-Debug-ID: 1202915272-684c01880000-M4gYpI
+X-Barracuda-URL: http://128.112.131.23:8000/cgi-bin/mark.cgi
+X-VirusChecked: Checked
+X-Env-Sender: willard.mccarty@kcl.ac.uk
+X-Msg-Ref: server-15.tower-115.messagelabs.com!1202915265!22681847!1
+X-StarScan-Version: 5.5.12.14.2; banners=-,-,-
+X-ASG-Orig-Subj: 21.542 ""anywhere you want to go""
+X-KCLSpamScore: 13
+X-KCLRealSpamScore: 1.3
+X-KCLZStatus: 13
+X-KCLSpamBar: +
+X-KCLSpamReport: RCVD_IN_RBLPLUS=1.3
+X-KCL-MailScanner: Found to be clean
+X-MailScanner-From: willard.mccarty@kcl.ac.uk
+X-Barracuda-Connect: mail115.messagelabs.com[195.245.231.179]
+X-Barracuda-Start-Time: 1202915273
+X-Barracuda-Virus-Scanned: by Barracuda Spam Firewall at Princeton.EDU
+X-Proofpoint-Virus-Version: vendor=nai engine=5.2.00 definitions=5228     signatures=374923
+X-Proofpoint-Spam-Details: rule=quarantine_notspam policy=quarantine score=0                   spamscore=0 ipscore=0 phishscore=0 bulkscore=0 adultscore=0 classifier=spam adjust=0 reason=mlx engine=3.1.0-0801230000 definitions=main-0802130031
+X-Spam-KB: http://www.Princeton.EDU/spam
+List-Owner: 
+List-Subscribe: 
+List-Unsubscribe: 
+List-Archive: 
+List-Help: , 
+Original-recipient: rfc822;ccreegan@clear.net.nz
+X-EsetId: E082DD219BF97E34BAC782
+X-EsetScannerBuild: 11806
+
+               Humanist Discussion Group, Vol. 21, No. 542.
+       Centre for Computing in the Humanities, King's College London
+  www.kcl.ac.uk/schools/humanities/cch/research/publications/humanist.html
+                        www.princeton.edu/humanist/
+                     Submit to: humanist@princeton.edu
+
+
+
+         Date: Wed, 13 Feb 2008 14:18:59 +0000
+         From: Martin Mueller 
+         Subject: Re: 21.541 ""anywhere you want to go""
+
+In thinking about the computer as a kind of automobile,  Willard
+raises the troubling question ""What happens to a city whose urban
+planners think only in terms of the automobile?""  A good question from
+the pedestrian's or cyclist's perspective.  But let's be fair to
+automobiles, trains, and planes:  if one of your great pleasures in
+life is hiking in the mountains (as it true of me),  how do you get to
+wherever you want to hike in the first place?
+
+A major minor character in Thomas Mann's Magic Mountain (1923)  is the
+train that brings people to the then still rather sleepy Davos. A lot
+of hiking and cycling depends on other modes of transportation. The
+application to humanities computing is obvious--or not so obvious. I
+think there are two major factors that stand in the way of the
+intelligent and imaginative use of information technology in the
+humanities.  The first of these is the myth, encouraged by consumer
+oriented applications of technology, that you can interesting
+scholarly things by pushing some combination of buttons, and that if
+you can't learn to push those buttons in five minutes, it isn't worth
+doing or the program sucks. The second is the humanist's fear that the
+technology will take over and replace treasured forms of human(e)
+inquiry.  But think of the new, strenuous, and pleasurable forms of
+hiking or skiing that are enabled by technology. Switzerland is after
+all a triumph of civil engineering. And if one thinks of the
+humanities as a kind of Switzerland, perhaps it points to productive
+ways of seeing the interaction of man and machine (I am aware of
+aspects of Switzerland where the humanities perhaps do not want to go)
+
+Return-Path: 
+Received: from fep13.clear.net.nz (fep13 [192.168.16.114]) by local-daemon (CLEAR Net Mail) with ESMTP id <0JW8004E4FIR8TE0@local-daemon> for ccreegan@clear.net.nz; Fri, 15 Feb 2008 03:13:40 +1300 (NZDT)
+Received: from mxin3-orange.clear.net.nz (lb2-srcnat.clear.net.nz [203.97.32.237]) by mx5.clear.net.nz (CLEAR Net Mail) with ESMTP id <0JW800261FIOT870@mx5.clear.net.nz> for ccreegan@clear.net.nz; Fri, 15 Feb 2008 03:13:39 +1300 (NZDT)
+Received: from postoffice06.princeton.edu (HELO Princeton.EDU) ([128.112.133.8]) by mxin3-orange.clear.net.nz with ESMTP; Fri, 15 Feb 2008 03:13:38 +1300
+Content-Transfer-Encoding: 7bit
+Received: from smtpserver1.Princeton.EDU (smtpserver1.Princeton.EDU [128.112.129.65])	by Princeton.EDU (8.13.8/8.13.8) with ESMTP id m1EED49Z024174; Thu, 14 Feb 2008 09:13:05 -0500 (EST)
+X-Priority: 3
+X-MSMail-Priority: Normal
+Received: from lists.Princeton.EDU (listsv440.Princeton.EDU [128.112.131.10]) by smtpserver1.Princeton.EDU (8.12.9/8.12.9) with ESMTP id m1E6sxjK022413; Thu, 14 Feb 2008 09:12:59 -0500 (EST)
+Received: by LISTS.PRINCETON.EDU (LISTSERV-TCP/IP release 15.0) with spool id 18773016 for humanist@LISTS.PRINCETON.EDU; Thu, 14 Feb 2008 09:07:33 -0500
+X-MimeOLE: Produced By Microsoft MimeOLE V6.0.6002.18463
+Received: from Princeton.EDU (postoffice06.Princeton.EDU [128.112.133.8]) by lists.Princeton.EDU (8.13.1/8.13.1) with ESMTP id m1EE2vij006277 for ; Thu, 14 Feb 2008 09:02:57 -0500 (EST)
+Received: from Princeton.EDU (postoffice06.Princeton.EDU [128.112.133.8]) by Princeton.EDU (8.13.8/8.13.8) with ESMTP id m1EE2vUt013345 for ; Thu, 14 Feb 2008 09:02:57 -0500 (EST)
+Received: from emfw2.Princeton.EDU (emfw2.Princeton.EDU [128.112.128.96]) by Princeton.EDU (8.13.8/8.13.8) with ESMTP id m1EE2sI6013252 for ; Thu, 14 Feb 2008 09:02:56 -0500 (EST)
+Received: from mail78.messagelabs.com (localhost [127.0.0.1]) by emfw2.Princeton.EDU (Spam Firewall) with ESMTP id 1A8D7B7322B for ; Thu, 14 Feb 2008 08:59:01 -0500 (EST)
+Received: from mail78.messagelabs.com (mail78.messagelabs.com [195.245.230.131]) by emfw2.Princeton.EDU with ESMTP id CgbSRr1tkria3sma for ; Thu, 14 Feb 2008 08:59:01 -0500 (EST)
+Received: (qmail 30950 invoked from network); Thu, 14 Feb 2008 13:59:00 +0000
+Received: from outbound.kcl.ac.uk (HELO outbound.kcl.ac.uk) (137.73.2.214) by server-7.tower-78.messagelabs.com with AES256-SHA encrypted SMTP; Thu, 14 Feb 2008 13:59:00 +0000
+Received: from relay2.kcl.ac.uk ([137.73.2.210] helo=elder) by outbound.kcl.ac.uk outbound with esmtp (TLSv1:DHE-RSA-AES256-SHA:256) id 1JPec0-0004dq-R8 for humanist@princeton.edu; Thu, 14 Feb 2008 13:58:52 +0000
+Received: from c-67-169-186-172.hsd1.ca.comcast.net ([67.169.186.172] helo=littlewolf2.kcl.ac.uk) by elder smtp with esmtp (TLSv1:DHE-RSA-AES256-SHA:256) id 1JPea2-0002KK-Py for humanist@princeton.edu; Thu, 14 Feb 2008 13:56:51 +0000
+Date: Thu, 14 Feb 2008 13:56:41 +0000
+From: ""Humanist Discussion Group \(by way of Willard McCarty              \)"" 
+Subject: 21.543 cfp: special issue of the ALT Journal
+X-Originating-IP: [137.73.2.214]
+Sender: ""Humanist Discussion Gro",21
+Humanist.vol22.txt,"Return-Path: 
+Received: from fep14.clear.net.nz (fep14 [192.168.16.115]) by local-daemon (CLEAR Net Mail) with ESMTP id <0K0H00EK9MXHLGC0@local-daemon> for ccreegan@clear.net.nz; Wed, 07 May 2008 19:48:48 +1200 (NZST)
+Received: from mxin1-orange.clear.net.nz (lb2-srcnat.clear.net.nz [203.97.32.237]) by mx6.clear.net.nz (CLEAR Net Mail) with ESMTP id <0K0H00F0PN0SXFP1@mx6.clear.net.nz> for ccreegan@clear.net.nz; Wed, 07 May 2008 19:48:29 +1200 (NZST)
+Received: from postoffice04.princeton.edu (HELO Princeton.EDU) ([128.112.131.112]) by mxin1-orange.clear.net.nz with ESMTP; Wed, 07 May 2008 19:48:29 +1200
+Received: from smtpserver2.Princeton.EDU (smtpserver2.Princeton.EDU [128.112.129.148])	by Princeton.EDU (8.13.8/8.13.8) with ESMTP id m477jQlv009970; Wed, 07 May 2008 03:45:27 -0400 (EDT)
+X-Priority: 3
+X-MSMail-Priority: Normal
+Received: from lists.Princeton.EDU (listsv440.Princeton.EDU [128.112.131.10]) by smtpserver2.Princeton.EDU (8.12.9/8.12.9) with ESMTP id m474L8TW021203; Wed, 07 May 2008 03:44:21 -0400 (EDT)
+Received: by LISTS.PRINCETON.EDU (LISTSERV-TCP/IP release 15.0) with spool id 19863700 for humanist@LISTS.PRINCETON.EDU; Wed, 07 May 2008 03:43:00 -0400
+X-MimeOLE: Produced By Microsoft MimeOLE V6.0.6002.18463
+Received: from Princeton.EDU (postoffice06.Princeton.EDU [128.112.133.8]) by lists.Princeton.EDU (8.13.1/8.13.1) with ESMTP id m477Xlks002671 for ; Wed, 07 May 2008 03:33:47 -0400 (EDT)
+Received: from Princeton.EDU (postoffice06.Princeton.EDU [128.112.133.8]) by Princeton.EDU (8.13.8/8.13.8) with ESMTP id m477XlkJ021660 for ; Wed, 07 May 2008 03:33:47 -0400 (EDT)
+Received: from emfw3.Princeton.EDU (emfw3.Princeton.EDU [128.112.129.100]) by Princeton.EDU (8.13.8/8.13.8) with ESMTP id m477XiJw021657 for ; Wed, 07 May 2008 03:33:46 -0400 (EDT)
+Received: from mail114.messagelabs.com (localhost [127.0.0.1]) by emfw3.Princeton.EDU (Spam Firewall) with ESMTP id 225F014577C5 for ; Wed, 07 May 2008 03:33:26 -0400 (EDT)
+Received: from mail114.messagelabs.com (mail114.messagelabs.com [195.245.231.163]) by emfw3.Princeton.EDU with ESMTP id Ao5ExdalsQkeA57L for ; Wed, 07 May 2008 03:33:26 -0400 (EDT)
+Received: (qmail 31774 invoked from network); Wed, 07 May 2008 07:33:42 +0000
+Received: from outbound.kcl.ac.uk (HELO outbound.kcl.ac.uk) (137.73.2.214) by server-9.tower-114.messagelabs.com with AES256-SHA encrypted SMTP; Wed, 07 May 2008 07:33:42 +0000
+Received: from relay2.kcl.ac.uk ([137.73.2.210] helo=elder) by outbound.kcl.ac.uk outbound with esmtp (TLSv1:DHE-RSA-AES256-SHA:256) id 1Jte9T-0000yA-3l for humanist@princeton.edu; Wed, 07 May 2008 08:33:23 +0100
+Received: from wolf.mccarty.me.uk ([81.2.73.74] helo=WOLF.kcl.ac.uk) by elder smtp with esmtp (TLSv1:DHE-RSA-AES256-SHA:256) id 1Jte9H-0000qh-0D for humanist@princeton.edu; Wed, 07 May 2008 08:33:12 +0100
+Date: Wed, 07 May 2008 08:36:14 +0100
+From: ""Humanist Discussion Group \(by way of Willard McCarty              \)"" 
+Subject: 22.001 the 21st time around the Maypole
+X-Originating-IP: [137.73.2.214]
+Sender: ""Humanist Discussion Group"" 
+Approved-by: willard@LISTS.VILLAGE.VIRGINIA.EDU
+X-Envelope-To: ccreegan@clear.net.nz
+To: 
+X-To: humanist Discussion Group 
+Reply-To: ""Humanist Discussion Group \(by way of Willard McCarty              \)"" 
+Message-ID: <20080507073326.225F014577C5@emfw3.Princeton.EDU>
+MIME-Version: 1.0
+X-MIME-Autoconverted: from quoted-printable to 8bit by lists.Princeton.EDU id                  m477Xlks002672
+X-Mailer: QUALCOMM Windows Eudora Version 7.1.0.9
+Content-Type: text/plain;
+	format=flowed;
+	charset=""iso-8859-1""
+Content-Transfer-Encoding: 8bit
+Precedence: list
+X-ASG-Debug-ID: 1210145606-1ca500020000-M4gYpI
+X-Barracuda-URL: http://128.112.129.100:8000/cgi-bin/mark.cgi
+X-VirusChecked: Checked
+X-Env-Sender: willard.mccarty@kcl.ac.uk
+X-Msg-Ref: server-9.tower-114.messagelabs.com!1210145622!44774285!1
+X-StarScan-Version: 5.5.12.14.2; banners=-,-,-
+X-ASG-Orig-Subj: 22.001 the 21st time around the Maypole
+X-KCLSpamScore: 50
+X-KCLRealSpamScore: 5.0
+X-KCLZStatus: 50
+X-KCLSpamBar: +++++
+X-KCLSpamReport: BAYES_99=5
+X-KCL-MailScanner: Found to be clean
+X-MailScanner-From: willard.mccarty@kcl.ac.uk
+X-Barracuda-Connect: mail114.messagelabs.com[195.245.231.163]
+X-Barracuda-Start-Time: 1210145607
+X-Barracuda-Virus-Scanned: by Barracuda Spam Firewall at Princeton.EDU
+X-Proofpoint-Virus-Version: vendor=nai engine=5.2.00 definitions=5289     signatures=391171
+X-Proofpoint-Spam-Details: rule=quarantine_notspam policy=quarantine score=0                   spamscore=0 ipscore=0 phishscore=0 bulkscore=0 adultscore=0 classifier=spam adjust=0 reason=mlx engine=3.1.0-0804140000 definitions=main-0805070004
+X-Spam-KB: http://www.Princeton.EDU/spam
+List-Owner: 
+List-Subscribe: 
+List-Unsubscribe: 
+List-Archive: 
+List-Help: , 
+Original-recipient: rfc822;ccreegan@clear.net.nz
+X-EsetId: E082DD219BF97E34BAC782
+X-EsetScannerBuild: 11806
+
+               Humanist Discussion Group, Vol. 22, No. 1.
+       Centre for Computing in the Humanities, King's College London
+  www.kcl.ac.uk/schools/humanities/cch/research/publications/humanist.html
+                        www.princeton.edu/humanist/
+                     Submit to: humanist@princeton.edu
+
+
+
+         Date: Wed, 07 May 2008 08:17:55 +0100
+         From: Willard McCarty 
+         Subject: the 21st time around the Maypole
+
+Today is Humanist's 21st birthday! Some of you 
+have been around since the very beginning, many 
+for many years. So most everyone here knows that 
+on 7 May every year I post a HAPPY BIRTHDAY 
+message, taking a bit of time out not just to 
+celebrate longevity but also to reflect on 
+Humanist's conceptual wanderings during the year.
+
+This time allow me to do these things by drawing 
+your attention to four bits of writing, whose 
+conjunction to my mind sums up what this 
+whatever-it-is has been about since it began, in 
+1987, when the humanities were nearing the end of 
+their palaeo-electronic age. I come to the 
+following construction because the necessarily 
+extra-/inter-disciplinary position of humanities 
+computing gives us quite a balancing act to 
+perform, help with which is never superfluous. To 
+put this another way, it is useful if not vital 
+for us to be reminded that being in play rather 
+than at rest, or in still another way, remaining 
+in conversation rather than at the conclusion of 
+whatever argument (or worse, persuaded by 
+whatever sales-pitch), is the trick perpetually 
+to be performed. We need our wakeup calls. So I give you the following:
+
+(1) The first three paragraphs in the Preface to 
+Erwin Schrödinger, What is Life? (1943), in which 
+he states his excuse for venturing beyond his 
+area of specialization (theoretical physics, that is):
+
+ >A scientist is supposed to have a complete and
+ >thorough knowledge, at first hand, of some
+ >subjects and, therefore, is usually expected not
+ >to write on any topic of which he is not a
+ >master. This is regarded as a matter of noblesse
+ >oblige. For the present purpose I beg to
+ >renounce the noblesse, if any, and to be freed
+ >of the ensuing obligation. My excuse is as follows:
+ >
+ >We have inherited from our forefathers the keen
+ >longing for unified, all-embracing knowledge.
+ >The very name given to the highest institutions
+ >of learning reminds us, that from antiquity and
+ >throughout many centuries the universal aspect
+ >has been the only one to be given full credit.
+ >But the spread, both in width and depth, of the
+ >multifarious branches of knowledge during the
+ >last hundred odd years has confronted us with a
+ >queer dilemma. We feel clearly that we are only
+ >now beginning to acquire reliable material for
+ >welding together the sum total of all that is
+ >known into a whole; but, on the other hand, it
+ >has become next to impossible for a single mind
+ >fully to command more than a small specialized version of it.
+ >
+ >I can see no other escape from this dilemma
+ >(lest our true aim be lost forever) than that
+ >some of us should venture to embark on a
+ >synthesis of facts and theories, albeit with
+ >second-hand and incomplete knowledge of some of
+ >them -- and at the risk of making fools of ourselves.
+
+(2) John Ziman, ""Emerging out of nature into 
+history: the plurality of the sciences"", in 
+Philosophical Transactions of the Royal Society, 
+London 361 (2003): 1617-33, of which here I give 
+the abstract (the whole thing is in JSTOR):
+
+ >The idea of a 'theory of everything' is
+ >inconsistent with a natural feature of
+ >biological evolution: the spontaneous emergence
+ >of composite entities with completely new
+ >properties. At successively higher levels of
+ >complexity, from elementary particles and
+ >chemical molecules, through unicellular and
+ >multicellular organisms, to self-aware human
+ >beings and their cultural institutions, we find
+ >systems obeying entirely novel principles. The
+ >behaviour of such systems is not predictable
+ >from the properties of their constituents, so
+ >distinct 'languages' are required to describe
+ >them scientifically. The plurality of our
+ >sciences is thus an irreducible feature of the
+ >universe we live in. In particular, the
+ >reversible time coordinate of mathematical
+ >physics cannot cope with the natural 'path
+ >dependence' of biology. In the human sciences
+ >this extends into the imagined future as well as
+ >the remembered past. Furthermore, science
+ >nowadays usually arises in localized social
+ >contexts, where the 'logic of the situation' is
+ >continually being transformed by the emergence
+ >of cultural novelties such as unpredictable
+ >technological innovations. Thus, scientific
+ >knowledge cannot be restricted to generalized
+ >synchronic models, but involves historical
+ >narratives of specific events and unforeseen circumstances.
+
+(3) G. R. Lloyd, Cognitive Variations: 
+Reflections on the Unity and Diversity of the 
+Human Mind (Oxford: Clarendon Press, 2007), of 
+which I will quote the first paragraph from the Preface:
+
+ >This book derives from the interests that I have
+ >had, over many year",vol22
+Humanist.vol23.txt,"From humanist-bounces@lists.digitalhumanities.org  Thu May  7 08:38:17 2009
+Return-Path: 
+X-Original-To: humanist-archiver@digitalhumanities.org
+Delivered-To: humanist-archiver-digitalhumanities@woodward.joyent.us
+Received: from woodward.joyent.us (localhost [127.0.0.1])
+	by woodward.joyent.us (Postfix) with ESMTP id 49C0266F6;
+	Thu,  7 May 2009 08:38:17 +0000 (GMT)
+Received: by woodward.joyent.us (Postfix, from userid 1006)
+	id CC50066E3; Thu,  7 May 2009 08:38:14 +0000 (GMT)
+From: Humanist Discussion Group 
+To: humanist@lists.digitalhumanities.org
+MIME-Version: 1.0
+Message-Id: <20090507083814.CC50066E3@woodward.joyent.us>
+Date: Thu,  7 May 2009 08:38:14 +0000 (GMT)
+Subject: [Humanist]  23.1 Happy 22nd birthday!
+X-BeenThere: humanist@lists.digitalhumanities.org
+X-Mailman-Version: 2.1.10
+Precedence: list
+Reply-To: Online seminar for digital humanities
+	
+Content-Type: text/plain; charset=""utf-8""
+Content-Transfer-Encoding: base64
+Sender: humanist-bounces@lists.digitalhumanities.org
+Errors-To: humanist-bounces@lists.digitalhumanities.org
+
+                  Humanist Discussion Group, Vol. 23, No. 1.
+         Centre for Computing in the Humanities, King's College London
+                       www.digitalhumanities.org/humanist
+                Submit to: humanist@lists.digitalhumanities.org
+
+
+
+        Date: Thu, 07 May 2009 09:35:42 +0100
+        From: Willard McCarty 
+        Subject: Happy 22nd Birthday!
+
+If a dog seems to live 7 times faster than a human, how fast does an 
+online seminar like Humanist age in our sight? How old do we Humanists 
+feel? Like the 22 year-old clinging to the belief that he or she can do 
+anything but beginning to suspect otherwise? Like the 154 year-old (22 * 
+7 = 154) who cannot behave properly? Like an ageless sage?
+
+A marvellous, wonderful celebration of Humanist's 21st birthday was 
+staged by Lisa Lena Opas-HÃ¤nninen at DH2008 almost a year ago, at which 
+not a few digital grandees were to be seen drinking liberally to its 
+health. (See the post-sauna 
+http://www.ekl.oulu.fi/dh2008/gallery/pages/IMG_4445.html and its 
+unsteady sequels.) A few years back I recall making some claim or other 
+about Humanist coming of age at 18, by which time few of its original 
+members remained, many having grown too old or too busy with heavy 
+matters of state to remain in this playpen of ideas and, as we say, 
+information. Now we're 22. I sit here in my 109 year-old Victorian 
+London house with the latest building project underway (a conservatory, 
+and beautiful it will be once it is done...) marvelling at the dizzying 
+speed with which Humanist's 22nd continuous year of existence has 
+passed. Although it may be said that the handbasket headed for Hell 
+continues its lamentable journey filled with most things we value, there 
+are moments when the view (I am imagining, unaccountably, the view from 
+a ski-lift or mountain-top) gives back blessings all out of proportion 
+to the efforts invested in getting here. This ritual occasion, on 7 May 
+every year when I send out a birthday message, allows me publically to 
+notice them, or at least to notice that blessings are bestowed and then 
+to let you fill in the details for yourself. And to all those (if there 
+be any) who grumble objections at blessedness such as it is among 
+digital humanists, I recommend Akira Kurosawa's Ikiru (1952), in which 
+the perfect bureaucrat (spitting image of the one Turing used to help 
+him think his way through the Entscheidungsproblem) gets up from his 
+desk, shows us what's what and dies in a state of grace.
+
+This 7th May is special for Humanist because it marks the nearly 
+seamless move to digitalhumanities.org and completely successful trial 
+of the new automatic mechanisms designed for it by Malgosia Askanas 
+(good job indeed) and funded by the Alliance of Digital Humanities 
+Organizations (to which, to whom many thanks). As one member remarked, 
+the move has been unremarkable because almost completely invisible; my 
+reply was, thatâs true craftsmanship. If all the gears are perfectly 
+meshed, the changeover from messages numbered 22.xxx to 23.xxx today 
+will have been automatic too. Previously this had to be done by hand. 
+But the major improvements are those that make my life easier as editor 
+in the day-to-day task of scooping up postings and posting them. What 
+you observe (if that's the right word and I remain mindful of the gift) 
+is a happier editor.
+
+This 7th May is special for me professionally as being in the midst of 
+my efforts to unearth the wherewithal from which, I hope, a genuine 
+history of literary computing will emerge. Those who have spent much 
+time in archives will know what it means to be turning up loads of 
+mundane stuff, which is all to the purpose, but from time to time 
+unearthing a gem. My latest gems, for example, are Edmund Callis 
+Berkeley's Giant Brains, or Machines that Think (New York, John Wiley & 
+Sons, 1949); Martin Mann, ""Want to Buy a Brain?"", Popular Science 
+Monthly, May 1949: 148-52; a warning against such use of language for 
+computers, G. R. Stibitz, ""A Note on 'Is' and 'Might Be' in Computers"", 
+Mathematical Tables and Other Aids to Computation 4.31 (July): 168-9; 
+and a doctoral dissertation covering the ground, David P. Julyk, ""'The 
+Trouble with Machines is People.' The Computer as Icon in Post-War 
+America: 1946-1970"" (Michigan, 2008). Then there's Rich Didday, Finite 
+State Fantasies (Matrix, 1976), a comic book with a story, ""Escape"", 
+about a teenage boy who retreats into his room, constructs a VR machine 
+from a kit, hooks it to his television, builds a virtual world (an Eden, 
+presumably, including a naked woman), then strips off his clothes, dives 
+through the screen and flies off with her in a manner familiar to us 
+from Second Life. And on the other side of the street is Walter M. 
+Mathews and Kaye Reifers, ""The Computer in Cartoons: A Retrospective 
+from the Saturday Review"", Communications of the ACM 27.11 (1984): 1114-9.
+
+These are gems because they help make a history from a catalogue of 
+activities and achievements. All the stuff turned up serves as a 
+reminder of how much we have forgotten. The gems (yes, including the 
+comic books, wacko rants, hype and techno-enthusiasms some now would 
+wish permanently forgotten) are gems because they speak to the rounded 
+humanity of computing humanists now old, very old or dead who did more 
+than prepare concordances for print or whatever else. Theyâre gems 
+because they give us clues as to why certain things happened and others 
+did not. They speak to the silences in the historical record. They 
+illumine certain odd statements here and there. And they eventually, I 
+hope, will amount to a âhistory of the presentâ, as Foucault said, i.e. 
+a history that speaks to and helps us out with our current predicaments.
+
+Marvin Minsky said somewhere that science doesnât need history â it just 
+forges ahead. Heâs a mischievous imp, and a very bright one. But Thomas 
+Kuhn is, I think, more important for us at this point, esp in showing us 
+what a difference an historical view of progressive disciplines can do 
+for them.
+
+Before blowing out the candles, make a wish!
+
+Yours, with best wishes,
+WM
+
+-- 
+Willard McCarty, Professor of Humanities Computing,
+King's College London, staff.cch.kcl.ac.uk/~wmccarty/;
+Editor, Humanist, www.digitalhumanities.org/humanist;
+Interdisciplinary Science Reviews, www.isr-journal.org.
+
+
+
+_______________________________________________
+List posts to: humanist@lists.digitalhumanities.org
+List info and archives at at: http://digitalhumanities.org/humanist
+Listmember interface at: http://digitalhumanities.org/humanist/Restricted/listmember_interface.php
+Subscribe at: http://www.digitalhumanities.org/humanist/membership_form.php
+
+
+From humanist-bounces@lists.digitalhumanities.org  Thu May  7 08:40:39 2009
+Return-Path: 
+X-Original-To: humanist-archiver@digitalhumanities.org
+Delivered-To: humanist-archiver-digitalhumanities@woodward.joyent.us
+Received: from woodward.joyent.us (localhost [127.0.0.1])
+	by woodward.joyent.us (Postfix) with ESMTP id D5A136821;
+	Thu,  7 May 2009 08:40:39 +0000 (GMT)
+Received: by woodward.joyent.us (Postfix, from userid 1006)
+	id B19E1680B; Thu,  7 May 2009 08:40:37 +0000 (GMT)
+From: Humanist Discussion Group 
+To: humanist@lists.digitalhumanities.org
+MIME-Version: 1.0
+Message-Id: <20090507084037.B19E1680B@woodward.joyent.us>
+Date: Thu,  7 May 2009 08:40:37 +0000 (GMT)
+Subject: [Humanist]  23.2 invitation to join the iSchools
+X-BeenThere: humanist@lists.digitalhumanities.org
+X-Mailman-Version: 2.1.10
+Precedence: list
+Reply-To: Online seminar for digital humanities
+	
+Content-Type: text/plain; charset=""us-ascii""
+Content-Transfer-Encoding: 7bit
+Sender: humanist-bounces@lists.digitalhumanities.org
+Errors-To: humanist-bounces@lists.digitalhumanities.org
+
+                  Humanist Discussion Group, Vol. 23, No. 2.
+         Centre for Computing in the Humanities, King's College London
+                       www.digitalhumanities.org/humanist
+                Submit to: humanist@lists.digitalhumanities.org
+
+
+
+        Date: Wed, 06 May 2009 09:39:34 -0500
+        From: Maeve Reilly 
+        Subject: Join the iSchools
+
+The iSchools (http://www.ischools.org) project represents a group of 
+schools committed to the idea that expertise in all forms of information 
+is required for progress in science, business, education, and culture. 
+This expertise includes understanding of the uses and users of 
+information, and of the nature of information itself, as well as 
+information technologies and their applications. 
+
+Criteria for being recognized as an iSchool are not rigid, but schools 
+are expected to have substantial sponsored research activity (an average 
+of $1 million in research expenditures per year over three years), 
+engagement in educating future researchers (usually through a 
+research-oriented doctoral program), and a commitment to progress in the 
+information field. 
+
+School",vol23
+Humanist.vol24.txt,"From humanist-bounces@lists.digitalhumanities.org  Fri May  7 05:28:49 2010
+Return-Path: 
+X-Original-To: humanist-archiver@digitalhumanities.org
+Delivered-To: humanist-archiver-digitalhumanities@woodward.joyent.us
+Received: from woodward.joyent.us (localhost [127.0.0.1])
+	by woodward.joyent.us (Postfix) with ESMTP id 23E905492E;
+	Fri,  7 May 2010 05:28:49 +0000 (GMT)
+Received: by woodward.joyent.us (Postfix, from userid 1006)
+	id 465AA54916; Fri,  7 May 2010 05:28:47 +0000 (GMT)
+From: Humanist Discussion Group 
+To: humanist@lists.digitalhumanities.org
+MIME-Version: 1.0
+Message-Id: <20100507052847.465AA54916@woodward.joyent.us>
+Date: Fri,  7 May 2010 05:28:47 +0000 (GMT)
+Subject: [Humanist] 24.1 Happy 23rd birthday, Humanist
+X-BeenThere: humanist@lists.digitalhumanities.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: Online seminar for digital humanities
+	
+Content-Type: text/plain; charset=""us-ascii""
+Content-Transfer-Encoding: 7bit
+Sender: humanist-bounces@lists.digitalhumanities.org
+Errors-To: humanist-bounces@lists.digitalhumanities.org
+
+                  Humanist Discussion Group, Vol. 24, No. 1.
+         Centre for Computing in the Humanities, King's College London
+                       www.digitalhumanities.org/humanist
+                Submit to: humanist@lists.digitalhumanities.org
+
+
+
+        Date: Thu, 06 May 2010 08:15:12 +0100
+        From: Willard McCarty 
+        Subject: Happy 23rd Birthday!
+
+
+I'm reminded of Humanist's annual birthday event these last few years by 
+automatic devices, now my iPhone. Unlike the birthday of a person, who 
+eventually does not want his or her age to be noted or is too busy with 
+other things to be around for the celebration, Humanist exists only in 
+outbursts of prose which in effect celebrate its existence these last 23 
+years. For those too young or too recently among us to know, Humanist 
+dates back to a moment at a conference in Columbia, South Carolina, when 
+Michael Sperberg-McQueen provoked the thought in me that we all should 
+talk to each other more. That's what really happened (eigentlich!), 
+although what I would have said at the time was that the couple of dozen 
+people at the impromptu gathering of disgruntled colleagues had a 
+revolution to start, and you cannot do that without conspiratorial 
+passing of messages. I suppose one could say now that many of us here 
+are living the outcome of that revolution, though I'd have to admit that 
+us few were not the first expression of the revolutionary impulse -- Joe 
+Raben was there to remind us we had a history. As Fidel has said many, 
+many times, the revolution is nothing unless it continues.
+
+A perfect example of what Humanist is all about is to my mind Wendell 
+Piez's characteristically magnanimous and insightful response yesterday 
+to an outburst of mine on markup, it in turn provoked by Desmond 
+Schmidt's, in a conversation on the topic stretching far enough around 
+the globe to be simultaneously vernal and autumnal. I have been feeling 
+(perhaps in part because of my own rather bewildering heap of birthdays, 
+stretching back to the time when Fr Busa got started) that Fidel's point 
+has been lost in the industrialisation of humanities computing that has 
+followed in the wake of TEI's great success. I have been worrying that 
+the central mission of the humanities, to make/find problems where none 
+were before (how I wish we could hear the two resonances of the word 
+""invent"" simultaneously!) has been forgotten within the digital 
+humanities by those who have found themselves all too comfortable in the 
+mind-laced straitjacket of implementing someone else's ideas. 
+
+And then I wake up from the nightmare and find Wendell, whose 
+philosophical bedside manner is better than sunshine streaming through 
+the blinds. CONVERSATION, not what Donald MacCrimmon MacKay apparently, 
+somewhere I cannot find, called ""competitive monologue"", but real 
+conversation. I think at this point of Warren McCulloch's marvellous 
+""The Fun of Failures"", Annals of the New York Academy of Sciences 156.0 
+(April 1969): 963-8, in which he quotes MacKay and gives us an idea of 
+what a powerfully questioning mind is like. ""Teaching and learning"", 
+McCulloch writes there, ""are not what Donald MacKay calls competitive 
+monologue, but dialogue in which each exposes the inadequacies of his 
+map of the world for his partner to complete or correct."" Isn't that 
+what it's all about for our kind, however geeky, however scholarly? 
+Better than collaboration, the whole point of collaboration. We make 
+things, sure, but in order better to question through their anomalous 
+behaviours or results.
+
+Permit me to tell a story I have likely told several times here. One of 
+the things that really got up my nose (a marvellous Britishism, no?) in 
+those days when Humanist began was the widely used metaphor of the 
+""clearinghouse"" of information, which was what some thought was  needed. 
+I had been with my auntie many times as a lad to clearing-out sales at 
+department stores, which would throw open their doors at the advertised 
+hour in the morning to crowds of shoppers, who would then in a mad rush 
+dive at tables where clothing on sale was piled and grab, sometimes in a 
+tug-of-war, at particular items. This is what came to mind when 
+""clearinghouse"" was mentioned. Wrong for all sorts of reasons, 
+especially because acquisition of objects was the putative goal. I am 
+guessing that what really motivated my auntie wasn't the nice frock she 
+hoped to grab, or not exactly, but a mixture of some vision of life 
+promised by that frock and the chance to interact with those she 
+probably at the time wished would die or at least go away. Conversation 
+plus the ever-elusive truth, or as Plato knew perfectly well, desire.
+
+Which is where I always begin and end. 
+
+Happy Birthday Humanist! And thanks to everyone here, and to everyone who has come and gone, for making these conversations possible. This certainly includes the lurkers. I note, suddenly questioning that term an interesting development chronicled in the Oxford English Dictionary, the following:
+
+-----
+LURKER
+
+1. One who lurks or lies concealed: freq. employed as a term of abuse in early quots. lit. and fig. [quotations 1325-1870]
+2.  A begging impostor; a petty thief. [quotations 1842-1973]
+3. App[arently] misused for LURCHER [quotation 1440]
+
+DRAFT ADDITIONS JULY 2001 
+
+Chiefly Computing slang. A person who reads communications to an electronic network without actively contributing. [quotations 1984-1998]
+-----
+
+>From this I conclude that computing brings out in us a playful spirit and has overall a most civilising effect!
+
+Thank you all!
+
+
+Yours,
+WM
+
+-- 
+Willard McCarty, Professor of Humanities Computing,
+King's College London, staff.cch.kcl.ac.uk/~wmccarty/;
+Editor, Humanist, www.digitalhumanities.org/humanist;
+Interdisciplinary Science Reviews, www.isr-journal.org.
+
+
+
+_______________________________________________
+List posts to: humanist@lists.digitalhumanities.org
+List info and archives at at: http://digitalhumanities.org/humanist
+Listmember interface at: http://digitalhumanities.org/humanist/Restricted/listmember_interface.php
+Subscribe at: http://www.digitalhumanities.org/humanist/membership_form.php
+
+
+
+
+From humanist-bounces@lists.digitalhumanities.org  Fri May  7 05:32:00 2010
+Return-Path: 
+X-Original-To: humanist-archiver@digitalhumanities.org
+Delivered-To: humanist-archiver-digitalhumanities@woodward.joyent.us
+Received: from woodward.joyent.us (localhost [127.0.0.1])
+	by woodward.joyent.us (Postfix) with ESMTP id D074754A09;
+	Fri,  7 May 2010 05:32:00 +0000 (GMT)
+Received: by woodward.joyent.us (Postfix, from userid 1006)
+	id 43646549DF; Fri,  7 May 2010 05:32:00 +0000 (GMT)
+From: Humanist Discussion Group 
+To: humanist@lists.digitalhumanities.org
+Message-Id: <20100507053200.43646549DF@woodward.joyent.us>
+Date: Fri,  7 May 2010 05:32:00 +0000 (GMT)
+Subject: [Humanist] 24.2 inadequacies of markup
+X-BeenThere: humanist@lists.digitalhumanities.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: Online seminar for digital humanities
+	
+MIME-Version: 1.0
+Content-Type: text/plain; charset=""us-ascii""
+Content-Transfer-Encoding: 7bit
+Sender: humanist-bounces@lists.digitalhumanities.org
+Errors-To: humanist-bounces@lists.digitalhumanities.org
+
+
+                  Humanist Discussion Group, Vol. 24, No. 2.
+         Centre for Computing in the Humanities, King's College London
+                       www.digitalhumanities.org/humanist
+                Submit to: humanist@lists.digitalhumanities.org
+
+  [1]   From:    Wendell Piez                    (153)
+        Subject: Re: [Humanist] 23.797 inadequacies of markup
+
+  [2]   From:    ""J. Randolph Radney""                   (7)
+        Subject: markup
+
+
+--[1]------------------------------------------------------------------------
+        Date: Thu, 06 May 2010 13:50:11 -0400
+        From: Wendell Piez 
+        Subject: Re: [Humanist] 23.797 inadequacies of markup
+        In-Reply-To: <20100506053456.7F2A655317@woodward.joyent.us>
+
+Dear Desmond,
+
+At 01:34 AM 5/6/2010, you wrote:
+> >(a) An adequate markup language, in order to be composable the way
+> >you want, cannot be limited to describing a single hierarchy. Indeed,
+> >it should not have to see the text as a hierarchy at all.
+>
+>I agree wholehearedly with the second sentence in particular. But 
+>you don't respond to my assertion in the article that a 'markup 
+>language' that didn't have a tree-structure (not just a hierarchy) 
+>could not be recognised/rejected by a computer. To what extent this 
+>is a useful property you haven't made clear, or do you wish to 
+>contend the point?
+
+Take this bit of LMNL syntax:
+
+[s}[quatrain}[line}[phr}He would have said,{phr] [phr}and could 
+himself believe{line]
+[line}That the birds there in all the garden round{line]
+[line}Had gathered from the day-long voice of Eve{line]
+[line}And added to their own,{phr] [phr}an oversound,{phr]{line]{quatrain]
+[quatrain}[line}[phr}H",vol24
+Humanist.vol25.txt,"From humanist-bounces@lists.digitalhumanities.org  Sat May  7 07:16:32 2011
+Return-Path: 
+X-Original-To: humanist-archiver@digitalhumanities.org
+Delivered-To: humanist-archiver-digitalhumanities@woodward.joyent.us
+Received: from woodward.joyent.us (localhost [127.0.0.1])
+	by woodward.joyent.us (Postfix) with ESMTP id ED84313EA3B;
+	Sat,  7 May 2011 07:16:31 +0000 (GMT)
+Received: by woodward.joyent.us (Postfix, from userid 1006)
+	id 8574413EA2A; Sat,  7 May 2011 07:16:28 +0000 (GMT)
+From: Humanist Discussion Group 
+To: humanist@lists.digitalhumanities.org
+MIME-Version: 1.0
+Message-Id: <20110507071628.8574413EA2A@woodward.joyent.us>
+Date: Sat,  7 May 2011 07:16:28 +0000 (GMT)
+Subject: [Humanist] 25.1 Humanist at 24: Chuck Bush 1948-2011
+X-BeenThere: humanist@lists.digitalhumanities.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: Online seminar for digital humanities
+	
+Content-Type: text/plain; charset=""us-ascii""
+Content-Transfer-Encoding: 7bit
+Sender: humanist-bounces@lists.digitalhumanities.org
+Errors-To: humanist-bounces@lists.digitalhumanities.org
+
+                  Humanist Discussion Group, Vol. 25, No. 1.
+         Centre for Computing in the Humanities, King's College London
+                       www.digitalhumanities.org/humanist
+                Submit to: humanist@lists.digitalhumanities.org
+
+
+
+        Date: Sat, 07 May 2011 08:12:27 +0100
+        From: Willard McCarty 
+        Subject: Humanist at 24: Chuck Bush 1948-2011
+
+
+Today Humanist begins its 25th, quarter-century year. In usual and 
+generously imprecise human terms, we could say that a generation has 
+passed and that we're on to the next one. I certainly get that sense 
+from encountering whole collections of writings on the digital 
+humanities, not just published but some time ago, that I knew nothing 
+about until accidentially encountering them. This at first is shocking 
+because I am always on the prowl. But as my friend Harold Short remarked 
+a few days ago, our divergences of ideas, views, opinions, organizations 
+and everything else are signs of vigour. It's what happens to fields 
+that succeed. Perhaps they go to seed, but then those seeds, some of 
+them, germinate and sprout and grow. Those of us who think we have *said 
+it* just have to accept that it is (because we are) a living thing which 
+mutates, has babies and that argues with itself. In the latest thing I 
+am writing I've been dealing with a book review that sharply levels the 
+charge of disunity of opinion at a branch of our field, arguings that 
+the lack of consensus is a sure sign of failure. What's got me going is 
+the author's evident need to think that computing is all about coming up 
+with the correct answer (which unsurprisingly he thinks should turn out 
+to agree rather closely with received knowledge about the subject). 
+After all, we've given the field he has put in the dock 30 or more years 
+to come up with the goods, and all we get are more questions!
+
+What's much, much more difficult to accept than our comfortably small 
+subculture spinning out of our control is that with the passing of a 
+generation people pass. We can say, as Gregory Bateson once did, that 
+room needs to be made for the next generation, not just or even 
+primarily in the physical sense. (Bateson was such a man that he may 
+well have said this or thought it on his deathbed.) Ideas and their 
+expressions turn into prisons needing to be torn down and remade. And so 
+on and so forth. There are many other comforting thoughts which we can 
+have that, I suppose, all come down to the cycle of nature in one form 
+or another. ""But old age should burn and rage at close of day"". ""And I 
+am dumb to tell the lover's tomb"" anything at all.
+
+So I remember Chuck Bush, who died on 13 April, for who he was. As far 
+as I can recall he was there, at the International Conference on 
+Computing in the Humanities (ICCH) in 1987, in Columbia, South Carolina, 
+when I started in the then small community and after which, from 
+inspiration at the event, Humanist began. He was then as friendly, 
+stalwart and faithful as he remained throughout the following years. 
+Solid as a rock, until suddenly he wasn't.
+
+With news of his death various things have been done and others are 
+planned. The official online memorial is at 
+aurora-22360.tributes.com/show/Charles--Chuck--Bush-91259514. I have 
+made desultory effort to collect remembrances of Chuck in addition to 
+the brief expressions which flooded the internal ACH Executive list. 
+Here are two.
+
+""He was a good man"", Steve Ramsay wrote on 14 April, and like Steve ""I 
+will miss his kindly bearing and his good sense.  He will be dearly 
+missed.""
+
+Harold sent me ""one general and one specific observation about Chuck"":
+
+> The general one is to do with the way he combined thoughtfulness and
+> good humour.  He had a way of blinking that always seemed to me a
+> sure sign he was thinking - i.e. he had listened to what you had to
+> say and he was reflecting on it, a trait one might wish for in all
+> one's colleagues.  So many times in Committee meetings, where I often
+> encountered him of course in the last few years, his would be the
+> calm voice that suggested it might be a good idea to move our
+> discussion in a different direction, or added some significant point
+> in support of an argument.
+>
+> But perhaps his greatest gift was in putting forward his point of
+> view or telling you things in indirect or subtle ways.  I remember an
+> occasion when I was well on the way to making a very public gaffe
+> over confusing Fred Bloggs and Fred Smith; realising this, Chuck did
+> not say 'don't be an idiot, you surely mean Fred Bloggs'. What he
+> said was: 'we should find a way to involve Fred Smith in our new
+> initiative X, don't you think?'  It was very subtly done, but saved
+> me both immediate and later public embarrassment.  Not many people
+> have that gift!
+
+Simple gifts. Farewell, Chuck. Happy birthday, Humanist.
+
+Yours,
+WM
+
+-- 
+Professor Willard McCarty, Department of Digital Humanities, King's
+College London; Centre for Cultural Research, University of Western
+Sydney; Editor, Interdisciplinary Science Reviews (www.isr-journal.org);
+Editor, Humanist (www.digitalhumanities.org/humanist/); www.mccarty.org.uk/
+
+
+
+_______________________________________________
+List posts to: humanist@lists.digitalhumanities.org
+List info and archives at at: http://digitalhumanities.org/humanist
+Listmember interface at: http://digitalhumanities.org/humanist/Restricted/listmember_interface.php
+Subscribe at: http://www.digitalhumanities.org/humanist/membership_form.php
+
+
+
+
+From humanist-bounces@lists.digitalhumanities.org  Sat May  7 07:52:17 2011
+Return-Path: 
+X-Original-To: humanist-archiver@digitalhumanities.org
+Delivered-To: humanist-archiver-digitalhumanities@woodward.joyent.us
+Received: from woodward.joyent.us (localhost [127.0.0.1])
+	by woodward.joyent.us (Postfix) with ESMTP id 2D3FF13EF67;
+	Sat,  7 May 2011 07:52:17 +0000 (GMT)
+Received: by woodward.joyent.us (Postfix, from userid 1006)
+	id 991C513EF58; Sat,  7 May 2011 07:52:14 +0000 (GMT)
+From: Humanist Discussion Group 
+To: humanist@lists.digitalhumanities.org
+MIME-Version: 1.0
+Message-Id: <20110507075214.991C513EF58@woodward.joyent.us>
+Date: Sat,  7 May 2011 07:52:14 +0000 (GMT)
+Subject: [Humanist] 25.2 in denial
+X-BeenThere: humanist@lists.digitalhumanities.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: Online seminar for digital humanities
+	
+Content-Type: text/plain; charset=""us-ascii""
+Content-Transfer-Encoding: 7bit
+Sender: humanist-bounces@lists.digitalhumanities.org
+Errors-To: humanist-bounces@lists.digitalhumanities.org
+
+                  Humanist Discussion Group, Vol. 25, No. 2.
+         Centre for Computing in the Humanities, King's College London
+                       www.digitalhumanities.org/humanist
+                Submit to: humanist@lists.digitalhumanities.org
+
+
+
+        Date: Fri, 6 May 2011 21:50:26 +1000
+        From: Desmond Schmidt 
+        Subject: RE: [Humanist] 24.926 in denial
+        In-Reply-To: <20110506045258.9E76313E587@woodward.joyent.us>
+
+""Electronic philology is not only a way to make things faster and
+inventories more accurate. It is not just a tool. It is also, more
+deeply, a change in our attitude."" (F.A. Marcos Marin, 1998, in New Media
+and the Humanities: Research and Applications ed. D. Fiormonte and J.
+Usher, 2001, p.19)
+
+In spite of the attitude we take, whether for historical reasons, or
+because the situation demands it, to regard the computer as ""just a
+tool"", the fact remains that the addition of the tool to the task always
+changes the task. Even the example Willard gave of the mainframe
+computer that they all regarded as just a tool because it was kept in a
+separate room and didn't much interact with them, changed forever their
+methods of working and the sort of things they could do.
+
+The tendency for you to call something ""just a tool"" might be inversely 
+proportional to your degree of interaction with it.
+
+
+
+_______________________________________________
+List posts to: humanist@lists.digitalhumanities.org
+List info and archives at at: http://digitalhumanities.org/humanist
+Listmember interface at: http://digitalhumanities.org/humanist/Restricted/listmember_interface.php
+Subscribe at: http://www.digitalhumanities.org/humanist/membership_form.php
+
+
+
+
+From humanist-bounces@lists.digitalhumanities.org  Mon May  9 07:21:56 2011
+Return-Path: 
+X-Original-To: humanist-archiver@digitalhumanities.org
+Delivered-To: humanist-archiver-digitalhumanities@woodward.joyent.us
+Received: from woodward.joyent.us (localhost [127.0.0.1])
+	by woodward.joyent.us (Postfix) with ESMTP id DA42113F768;
+	Mon,  9 May 2011 07:21:55 +0000 (GMT)
+Received: by woodward.joyent.us (Postfix, from userid 1006)
+	id 7B35A13F758; Mon,  9 May 2011 07:21:52 +0000 (GMT)
+From: Humanist Discussion Group 
+To: humanist@lists.digitalhumanities.org
+MIME-Version: 1.0
+Message-Id: <20110509072152.7B35A13F758@woodward.joyent.us>
+Date: Mon,  ",vol25
+Humanist.vol26.txt,"From humanist-bounces@lists.digitalhumanities.org  Mon May  7 20:11:08 2012
+Return-Path: 
+X-Original-To: humanist-archiver@digitalhumanities.org
+Delivered-To: humanist-archiver-digitalhumanities@woodward.joyent.us
+Received: from woodward.joyent.us (localhost [127.0.0.1])
+	by woodward.joyent.us (Postfix) with ESMTP id 960E4280134;
+	Mon,  7 May 2012 20:11:08 +0000 (GMT)
+Received: by woodward.joyent.us (Postfix, from userid 1006)
+	id 5BAE6280126; Mon,  7 May 2012 20:11:06 +0000 (GMT)
+From: Humanist Discussion Group 
+To: humanist@lists.digitalhumanities.org
+MIME-Version: 1.0
+Message-Id: <20120507201106.5BAE6280126@woodward.joyent.us>
+Date: Mon,  7 May 2012 20:11:06 +0000 (GMT)
+Subject: [Humanist] 26.1 the jubilee
+X-BeenThere: humanist@lists.digitalhumanities.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: Online seminar for digital humanities
+	
+Content-Type: text/plain; charset=""us-ascii""
+Content-Transfer-Encoding: 7bit
+Sender: humanist-bounces@lists.digitalhumanities.org
+Errors-To: humanist-bounces@lists.digitalhumanities.org
+
+                  Humanist Discussion Group, Vol. 26, No. 1.
+            Department of Digital Humanities, King's College London
+                       www.digitalhumanities.org/humanist
+                Submit to: humanist@lists.digitalhumanities.org
+
+
+
+        Date: Mon, 7 May 2012 00:33:09 -0400
+        From: Grover Zinn 
+        Subject: Re: [Humanist] 25.941 Humanist's silver jubilee!
+        In-Reply-To: <20120506215240.C1D7B281B6E@woodward.joyent.us>
+
+
+Salutations to Willard for being ""the one without whom Humanist would not exist"" --- for his vision and his commitment (and lots of his time!)
+
+>From one who was fortunate enough to be there ""at the beginning"" so to speak.
+
+best
+
+Grover
+
+Grover A. Zinn
+William H. Danforth Professor of Religion (emeritus)
+former Associate Dean, College of Arts and Sciences
+Oberlin College
+Oberlin, OH 44074
+440-775-8866 (department)
+grover.zinn@oberlin.edu
+
+On May 6, 2012, at 5:52 PM, Humanist Discussion Group wrote:
+
+> 
+>                 Humanist Discussion Group, Vol. 25, No. 941.
+>            Department of Digital Humanities, King's College London
+>                       www.digitalhumanities.org/humanist
+>                Submit to: humanist@lists.digitalhumanities.org
+> 
+> 
+> 
+>        Date: Mon, 07 May 2012 07:43:06 +1000
+>        From: Willard McCarty 
+>        Subject: Humanist's silver jubilee
+> 
+> In the UK anniversaries of accession to the throne are 
+> celebrated as jubilees. In Jewish history a jubilee (a word whose 
+> origins run through Hebrew, Greek and Latin) is ""A year of emancipation 
+> and restoration, which according to the institution in Lev. xxv was to 
+> be kept every fifty years, and to be proclaimed by the blast of trumpets 
+> throughout the land"" (OED). In 1300, that same source tells me, Boniface 
+> VIII instituted a jubilee as ""a year of remission from the penal 
+> consequences of sin"" to be celebrated every 100 years by the performance 
+> of pious works. Later regulations were relaxed, so that an extraordinary 
+> jubilee can be celebrated ""at any time either to the whole Church or to 
+> particular countries or cities"".
+> 
+> Being digital, Humanist's silver (i.e. 25th year) jubilee requires no 
+> washing in blood, indeed no washing at all! Being our first time, 
+> however, I'd think that a few extraordinary whoops of joy are in order.
+> 
+> When I began writing this note a fair bit in advance of today, I was not 
+> at all sure whether this whoop of mine would be sent out to the far 
+> corners of the round earth actually on the day itself, 7 May. I wasn't 
+> at all certain that after some 23 hours of travel from London to Sydney, 
+> with all the uncertainties of establishing a connection in a rather 
+> dazed state of mind, I and my arrangements would be up to the challenge. 
+> But it seems they are. So, greetings from Luxe, a very fine coffee shop 
+> in Newtown, Sydney, early on a Monday morning. 
+> 
+> These days I am frequently if unpredictably caught up in amazement that 
+> we in the digital humanities are not only still here, that we're not 
+> only prospering in every external way that marks the health of a field 
+> of enquiry, but that in particular jobs in the field are popping up, PhD 
+> students are vigorously engaged in seeing to the next generation and 
+> very interesting technical problems abound. Yes, there's still the 
+> wringing of hands and gnashing of teeth; I still lose a certain amount 
+> of sleep over the fragility of it all. But, I put it to you, a decade 
+> ago most of what is now happening would have been inconceivable. 
+> Whenever I hear nervous nellies fretting over whether it is or not a 
+> whatever, who's in and who's out etc ad nauseam, I gesture at the PhD 
+> students who are, even as I write, answering the anxieties by their 
+> actions and devotion to their work. Not all of them, perhaps not even a 
+> large minority, will become full-time academics, alas. But they are 
+> bring ever better into being what the nellies say doesn't exist, or not 
+> for very long, or not really at all. I say, behold, rejoice -- and above 
+> all learn.
+> 
+> The urge to reproduction is, of course, just that, an urge. But there is 
+> a real need for us to make this undertaking of ours less fragile, to 
+> spread it to younger and smarter practitioners, who will find out more 
+> of and about what we're doing than we've been able to discover. 
+> Computing's mutability-by-design won't be realised efficiently or 
+> perhaps not at all by those who have found their version of it and 
+> (mis)taken it for some kind of permanent it. More likely is that the 
+> young ones will see the new in potentia and bring it out into the light. 
+> But I am not speaking of chronological age primarily, rather of that 
+> youthful daring and restlessness to which, I have discovered, so-called 
+> retirement can bestow perhaps an even greater license.
+> 
+> In this grossly utilitarian and very nervous time it is understandable 
+> and perhaps necessary to fret over our usefulness to others, but in my 
+> opinion we have done altogether too much of this in the digital 
+> humanities. I sometimes wonder what happened to the youthful and 
+> youth-making joy of being curious and finding things out. To paraphrase 
+> an aboriginal American we are apt to forget the whole point of this (and 
+> every other) form of life: to be enabled to run out into the field, look 
+> up into the bright air and rejoice.
+> 
+> Happy 25th, Humanist!
+> 
+> All the best.
+> 
+> Yours,
+> WM
+> -- 
+> Professor Willard McCarty, Department of Digital Humanities, King's
+> College London; Professor (fractional), University of Western Sydney;
+> Editor, Interdisciplinary Science Reviews (www.isr-journal.org); Editor,
+> Humanist (www.digitalhumanities.org/humanist/); www.mccarty.org.uk/
+
+
+
+
+_______________________________________________
+List posts to: humanist@lists.digitalhumanities.org
+List info and archives at at: http://digitalhumanities.org/humanist
+Listmember interface at: http://digitalhumanities.org/humanist/Restricted/listmember_interface.php
+Subscribe at: http://www.digitalhumanities.org/humanist/membership_form.php
+
+
+
+
+From humanist-bounces@lists.digitalhumanities.org  Mon May  7 20:15:07 2012
+Return-Path: 
+X-Original-To: humanist-archiver@digitalhumanities.org
+Delivered-To: humanist-archiver-digitalhumanities@woodward.joyent.us
+Received: from woodward.joyent.us (localhost [127.0.0.1])
+	by woodward.joyent.us (Postfix) with ESMTP id 0D49E28062A;
+	Mon,  7 May 2012 20:15:07 +0000 (GMT)
+Received: by woodward.joyent.us (Postfix, from userid 1006)
+	id 47B4928032A; Mon,  7 May 2012 20:15:05 +0000 (GMT)
+From: Humanist Discussion Group 
+To: humanist@lists.digitalhumanities.org
+MIME-Version: 1.0
+Message-Id: <20120507201505.47B4928032A@woodward.joyent.us>
+Date: Mon,  7 May 2012 20:15:05 +0000 (GMT)
+Subject: [Humanist] 26.2 events: explanation; reading artifacts
+X-BeenThere: humanist@lists.digitalhumanities.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: Online seminar for digital humanities
+	
+Content-Type: text/plain; charset=""us-ascii""
+Content-Transfer-Encoding: 7bit
+Sender: humanist-bounces@lists.digitalhumanities.org
+Errors-To: humanist-bounces@lists.digitalhumanities.org
+
+                  Humanist Discussion Group, Vol. 26, No. 2.
+            Department of Digital Humanities, King's College London
+                       www.digitalhumanities.org/humanist
+                Submit to: humanist@lists.digitalhumanities.org
+
+  [1]   From:    Michael Lissack                          (8)
+        Subject: Save the Dates -- Modes of Explanation Conference May 22-
+                24/2013Paris France
+
+  [2]   From:    Roland Wittje        (15)
+        Subject: Reading Artifacts Summer Institute 2012, Canada Science &
+                Technology Museum
+
+
+--[1]------------------------------------------------------------------------
+        Date: Sun, 6 May 2012 22:59:07 +0100
+        From: Michael Lissack 
+        Subject: Save the Dates -- Modes of Explanation Conference May 22-24/2013Paris France
+
+
+Three days to discuss and learn about our use of modes of explanation. A look at how our mode of explanation affects our affordances for action.
+
+American University of Paris  May 22-24, 2013  See http://modesofexplanation.org
+
+Speakers include:  Nancy Nersessian, Paul Thagard, David Snowden, Rukmini Bhaya Nair, Kevin Kelly, Hugo Letiche, and Timothy Allen
+
+Sponsored by
+
+http://isce.edu
+
+and please see
+
+http://resilientcoherence.com/
+
+Hugo Letice et al, Coherence in the Midst of Complexity: Advances in Social Complexity Theory 
+
+
+--[2]------------------------------------------------------------------------
+        Date: Sun, 6 May 2012 15:32:15 +0200
+        From: Roland Wittje 
+        Subject: Reading Artifacts Summer Institute 2012, Canada Science & Technology Museum
+
+
+This year's Reading Artifacts Summer Institute will take place August 
+13-17 2012 at the Canada Science & Technology Museum in ",vol26
+Humanist.vol27.txt,"Return-Path: 
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
+	s16382816.onlinehome-server.info
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.0 required=5.0 tests=ALL_TRUSTED autolearn=ham
+	version=3.3.1
+X-Original-To: humanist-archiver@dhhumanist.org
+Delivered-To: humanist-archiver@dhhumanist.org
+Received: by digitalhumanities.org (Postfix, from userid 110)
+	id 7AFC43A36; Wed,  8 May 2013 07:15:08 +0200 (CEST)
+X-Original-To: humanist-archiver@digitalhumanities.org
+Delivered-To: humanist-archiver@digitalhumanities.org
+Received: from s16382816.onlinehome-server.info (s16382816.onlinehome-server.info [127.0.0.1])
+	by digitalhumanities.org (Postfix) with ESMTP id 960333A00;
+	Wed,  8 May 2013 07:15:06 +0200 (CEST)
+Received: by digitalhumanities.org (Postfix, from userid 10009)
+	id BE60639DA; Wed,  8 May 2013 07:15:04 +0200 (CEST)
+From: Humanist Discussion Group 
+To: humanist@lists.digitalhumanities.org
+MIME-Version: 1.0
+Message-Id: <20130508051504.BE60639DA@digitalhumanities.org>
+Date: Wed,  8 May 2013 07:15:04 +0200 (CEST)
+Subject: [Humanist] 27.1 birthday response
+X-BeenThere: humanist@lists.digitalhumanities.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: Online seminar for digital humanities
+	
+Content-Type: text/plain; charset=""us-ascii""
+Content-Transfer-Encoding: 7bit
+Sender: humanist-bounces@lists.digitalhumanities.org
+Errors-To: humanist-bounces@lists.digitalhumanities.org
+
+
+                  Humanist Discussion Group, Vol. 27, No. 1.
+            Department of Digital Humanities, King's College London
+                       www.digitalhumanities.org/humanist
+                Submit to: humanist@lists.digitalhumanities.org
+
+
+
+        Date: Tue, 7 May 2013 01:52:24 -0400
+        From: Grover Zinn 
+        Subject: Re:  26.1028 [should be 27.001] HAPPY 26th BIRTHDAY HUMANIST!
+        In-Reply-To: <20130507052806.5DEBB2DE5@digitalhumanities.org>
+
+Hello Willard and Humanist readers (and ""ponderers"")
+
+Another year as the wheel turns.  Congratulations to you Willard for seeing us through another cycle of the years!  Indeed, 26 is something like ""maturity""---hopefully not creaky old age, of which some of us are too aware; may there by 26 more, and more.  And if we add the UToronto predecessor to Humanist (alas, my fading memory has forgotten the name   :-(    ) Willard deserves credit for more than 26.  And speaking of blogs, twitter, etc. I suppose I show my age, but that is just too much information (some of it pretty random) to digest---either quickly or slowly.  But I show my age in that comment.  Humanist moves ""slowly"" so to speak, but hopefully it moves thoughtfully and reflectively (not that a blog is not thoughtful and reflective also!)
+
+I give less attention to Humanist than I should (I keep a closer focus on some current research/translation projects). But the digital humanities stay on my mind.  And yes, interdisciplinary, or as I have now heard, collaborative research is flourishing in some quarters---but it hard to see what the best model for achieving true collaboration will be.  Surely the possibility of quick, easy and detailed (textual, aural and visual) communication over vast distances is one element that is present now that was absent when Humanist stuck its foot into the flow of electrons.  I'm struck (from a weekly lunch with retired colleagues that includes scientists and one in particular who is still conducting research, how in certain fields (his is chemistry) you have to collaborate with others for reasons of lab equipment, expertise in the nitty gritty or the purely theoretical, etc etc.  I note with great interest (since I seem to be combining theology, spirituality, exegesis and iconography some of my endeavors) that the U. of Chicago has a new program (and building!!) dedicated to collaborative research (with funding!!!) chaired by David Nirenberg (who just spoke at Oberlin on the topic of his newest book).  I also discovered (probably old news to many on this list) that Notre Dame has a Mellon grant for interdisciplinary research/workshops on Literature and Religion, Music and Religion, and other combinations.  Perhaps, to take up Willard's comment near the endof his reflections---we ourselves have to envision and actualize (and encourage) work that brings disciplines together as much as we can in our own work, while drawing other people into the 'mix"" and furthering (and perhaps being a bit activist about it) interdisciplinary conversations.  
+
+Well, enough for now.  I've not posted in at least 26 ""dog years"".  So to close, Happy Birthday Humanist!
+
+best
+
+Grover 
+
+Grover Zinn
+William H. Danforth Professor of Religion, emeritus
+former Associate Dean, College of Arts and Sciences
+Oberlin College
+Oberlin, OH 44074
+grover.zinn@oberlin.edu
+
+On May 7, 2013, at 1:28 AM, Humanist Discussion Group wrote:
+
+> 
+>                 Humanist Discussion Group, Vol. 26, No. 1028.
+>            Department of Digital Humanities, King's College London
+>                       www.digitalhumanities.org/humanist
+>                Submit to: humanist@lists.digitalhumanities.org
+> 
+> 
+> 
+>        Date: Tue, 07 May 2013 06:19:32 +0100
+>        From: Willard McCarty 
+>        Subject: Happy 26th birthday!
+> 
+> When I was young and lived with a dog I learned that he was living much 
+> faster than I was, seven times faster, I was told. I recall also being 
+> told about other rates-of-life calculations for other sorts of living 
+> creatures. What do we say about digital creatures? Humanist at 26 today, 
+> surely a grandparent, would seem ancient among its kind, sitting sagely 
+> (I hope) while twitter-children run about at play and young blog-parents 
+> smile, or scowl, at all the noise.
+> 
+> I began wondering about this on getting up in the quiet of an early 
+> morning bank holiday Monday, being reminded of Humanist's birthday by an 
+> automatic calendar that also keeps me in the good graces of my mother 
+> and other relations by reminding me of their birthdays. I began 
+> wondering about noticeable changes in what Humanist circulates. Over the 
+> past year I think the clearest change is in the frequency with which 
+> jobs pop up: technical positions, usually short-term; the occasional 
+> professorship; junior academic positions from time to time; some 
+> postdocs; some PhD studentships.
+> 
+> From the perspective of someone who has been in the field from before 
+> Humanist began, the increase in frequency is quite amazing. Bandwagons 
+> rattle by quite often and leave much litter behind, but at a slower rate 
+> those who will be determining what digital humanities does and is are 
+> settling in and getting started. Humanist itself continues to grow, 
+> reaching a population of 2188 subscriptions this morning. Until 2007-8 
+> the number of messages circulated per year varied in a curious 
+> sinusoidal pattern, but since then it has been steadily rising (with a 
+> very small decline of 5 from 2010-11 to 2011-12. This year the number is 
+> already the highest ever by more than 100.
+> 
+> Given that there are now many ways to communicate online, to say nothing 
+> of mobile telephony, slow and steady growth of this (comparatively) old 
+> medium is an encouraging sign. But, I wonder, pondering the paucity of 
+> hard questions in the flow of informational and promotional 
+> announcements, what (other than the practicalities of elbowing a way 
+> into the budget-limited spaces of the academy) are the 
+> nomenklatura-to-be thinking about?
+> 
+> As someone who edits a journal of interdisciplinary research I am keenly 
+> aware both of how necessary and how limiting the division of 
+> intellectual concerns into disciplines actually is. On the one hand, 
+> it's very difficult to collect enough worthy articles over a year to 
+> populate a single issue of Interdisciplinary Science Reviews (URL 
+> below); on the other hand, it is not difficult at all to find colleagues 
+> who have very good material to populate a thematic issue. Often these 
+> thematic issues originate in conferences, symposia and the like; 
+> sometimes a guest editor volunteers to find contributions on a topic 
+> that particularly interests him or her. My favourite, of which so far 
+> there is but one instance under my editorship (but there will be at 
+> least two more), is the issue centred on a commissioned essay by a major 
+> scholar and populated by commentaries on that essay. This scholar is 
+> someone who attracts an interdisciplinary crowd by doing 
+> interdisciplinary work.
+> 
+> In other words, interdisciplinary research continues to be achieved 
+> mostly through collaboration. I call this the Manhattan Project model, 
+> after the organization which Robert Oppenheimer achieved. The Manhattan 
+> Project is interesting in this regard because of the way its 
+> interdisciplinary scope came about and was maintained: at the time, 
+> given the historical circumstances, a clear mandate; enormous amounts of 
+> money; and a commanding leader, who was able to knock heads together 
+> without breaking any of them.
+> 
+> Can we in digital humanities get beyond the Manhattan Project model to 
+> any considerable degree? To what extent do we have projects populated by 
+> real equals, none of whom has had to suppress his or her real interests 
+> in order to participate? (Is the word ""project"" itself a problem here? 
+> Does it prejudice discussion by implying that the research undertaken is 
+> goal-orientated, and therefore determined by the one who leads, rather 
+> than curiosity-motivated?) It would be great to have a taxonomic sketch 
+> of the social models emerging from digital humanities practices.
+> 
+> Anyhow, happy birthday Humanist! I suppose the above is more of a tough 
+> piece of meat or pile of undercooked vegetables than it is a birthday 
+> cake. But then we're not old enough to have become so refined as to know 
+> how to bake, are we?
+> 
+> Comments?
+> 
+> Yours,
+> WM
+> -- 
+> Willard McCarty, FRAI / Professor of Humanities Computing & Director of
+",vol27
+Humanist.vol28.txt,"Return-Path: 
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
+	s16382816.onlinehome-server.info
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.9 required=5.0 tests=ALL_TRUSTED,BAYES_00,
+	URIBL_BLOCKED autolearn=ham version=3.3.1
+X-Original-To: humanist-archiver@dhhumanist.org
+Delivered-To: humanist-archiver@dhhumanist.org
+Received: by digitalhumanities.org (Postfix, from userid 110)
+	id E330E6419; Wed,  7 May 2014 22:18:51 +0200 (CEST)
+X-Original-To: humanist-archiver@digitalhumanities.org
+Delivered-To: humanist-archiver@digitalhumanities.org
+Received: from s16382816.onlinehome-server.info (s16382816.onlinehome-server.info [127.0.0.1])
+	by digitalhumanities.org (Postfix) with ESMTP id 413F75FD2;
+	Wed,  7 May 2014 22:18:36 +0200 (CEST)
+Received: by digitalhumanities.org (Postfix, from userid 10009)
+	id 143CE2F72; Wed,  7 May 2014 22:18:33 +0200 (CEST)
+From: Humanist Discussion Group 
+To: humanist@lists.digitalhumanities.org
+MIME-Version: 1.0
+Message-Id: <20140507201834.143CE2F72@digitalhumanities.org>
+Date: Wed,  7 May 2014 22:18:33 +0200 (CEST)
+Subject: [Humanist] 28.1 sunshine and darkness,
+	or sometimes not a happy birthday
+X-BeenThere: humanist@lists.digitalhumanities.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: Online seminar for digital humanities
+	
+Content-Type: text/plain; charset=""utf-8""
+Content-Transfer-Encoding: base64
+Sender: humanist-bounces@lists.digitalhumanities.org
+Errors-To: humanist-bounces@lists.digitalhumanities.org
+
+
+                  Humanist Discussion Group, Vol. 28, No. 1.
+            Department of Digital Humanities, King's College London
+                       www.digitalhumanities.org/humanist
+                Submit to: humanist@lists.digitalhumanities.org
+
+  [1]   From:    Mark LeBlanc            (117)
+        Subject: Re:  27.1028 Happy birthday Humanist
+
+  [2]   From:    Joris van Zundert     (210)
+        Subject: Re:  27.1026 social structures & experience?
+
+
+--[1]------------------------------------------------------------------------
+        Date: Wed, 7 May 2014 05:48:05 -0400
+        From: Mark LeBlanc 
+        Subject: Re:  27.1028 Happy birthday Humanist
+        In-Reply-To: <20140507011238.B17B96358@digitalhumanities.org>
+
+
+williard:
+>Enjoy the birthday, which is all of ours.
+
+but you get to blow out the candles; thanks for all your work
+m
+
+On Tue, May 6, 2014 at 9:12 PM, Humanist Discussion Group <
+willard.mccarty@mccarty.org.uk> wrote:
+
+>                  Humanist Discussion Group, Vol. 27, No. 1028.
+>             Department of Digital Humanities, King's College London
+>                        www.digitalhumanities.org/humanist
+>                 Submit to: humanist@lists.digitalhumanities.org
+>
+>
+>
+>         Date: Wed, 07 May 2014 10:25:00 +1000
+>         From: Willard McCarty 
+>         Subject: Humanist's 28th year begins
+>
+>
+> Because the clock that tells the time sits elsewhere in the world from
+> where I am (in Sydney, Australia), the completion of Humanist's 27th year has 
+> as of this moment not yet been marked by the automatic change-over in volume
+> and issue numbering. But here it is 7 May, and so time to celebrate. Happy
+> birthday Humanist!
+>
+> We edge on 30 years of operation. Some of us, a dwindling number, have seen
+> all of them pass. But melancholy be gone! Before that 30th turn, shortly
+> after Humanist turns 29, we here will be holding the 2015 Digital Humanities
+> conference at the University of Western Sydney. Plans and arrangements for
+> that event are, I am reliably informed, well underway in the capable hands
+> of Paul Arthur, Harold Short, Jason Ensor and some others. The Parramatta
+> campus of UWS, where the conference will be held, is a beautiful site and
+> offers inter alia an hour's ferry ride down the Parramatta River, then under
+> the Harbour Bridge and past the Opera House to Circular Quay, from which
+> other ferries go to many beautiful spots. When I was in a Sydney camera
+> shop last year a clerk asked me, so obviously a foreigner, if I were planning to
+> take some photos of the Bridge. My reply then remains true now: I am weary
+> of taking photos of that Bridge, I said, but I never get tired of looking at
+> it. Some Sydneysiders call it the Coat Hanger. If only we lived in a world
+> so well designed that our coat hangers had such beauteous engineering in
+> them! Anyhow, the ferry ride is a treat, the campus beautiful -- and of
+> course the intellectual programme will be among the very best. For those
+> fortunate enough to come here and travel afterwards I am compiling an
+> annotated list of destinations -- some around Sydney, others a bit further
+> away (e.g. the Blue Mountains) and then those astonishing places to which
+> most of us fly. Google for Uluru, the Olgas, King's Canyon, Karijini,
+> Broome, the Kimberley (esp Windjana Gorge), Kakadu, Arnhem Land. Read Robyn
+> Davidson's Tracks, then watch John Curran's fine movie based on it and
+> filmed in location.
+>
+> This morning, however, to celebrate Humanist properly, my nose was stuck
+> in a book, G.E.R. Lloyd's The Ideals of Inquiry: An Ancient History
+> (Oxford, 2014). You may recall from a previous posting David Gooding's
+> argument about the human interpretative expansion which follows the
+> increasingly effective reduction brought about by our digital instruments.
+> Thus Lloyd in his final chapter:
+>
+> > We can, of course, see immeasurably more with the tools that are now
+> > available, optical and radio telescopes, microscopes and the like,
+> > where analysing the data with computers adds enormously to their
+> > usefulness. But what we observe always has to be processed and
+> > interpreted in the light of assumptions, hypotheses, conjectures,
+> > even when we use computer modelling again to help in that work. We
+> > cannot escape our assumptions, though we can be critical of them,
+> > just as our predecessors did not escape theirs -- and yet many of
+> > them too saw the need to be self-critical.
+> >
+> > In today's science we do not bring into existence a new faculty, even
+> > when we develop a new style of reasoning. The same underlying
+> > capacity, more or less aware of its fallibilities, more or less
+> > trained, more or less 'domesticated', is in play throughout.  (p. 135)
+>
+> What I cannot do here without quoting the entire book (not a long one)
+> is give an adequate sense of Lloyd's meticulous care in weaving back and
+> forth between the alternatives of continuity and innovation across the
+> four cultures of Ancient Greece, Mesopotamia, India and China. What I
+> can do to honour all that has made Humanist possible and sustained it
+> for these last unbelievably many years is to pick up his suggestion that
+> the task we have before us is to develop computer modelling, which Ian
+> Hacking ""now rightly stresses should be added to the distinctively
+> modern 'styles of thinking & doing'"" (p. 131). So, no new faculty
+> (continuity) but a new way of deploying it (innovation), with massively
+> important consequences to be explored.
+>
+> What a birthday present that is!
+>
+> Enjoy the birthday, which is all of ours.
+>
+> Yours,
+> WM
+> --
+> Willard McCarty (www.mccarty.org.uk/), Professor, Department of Digital
+> Humanities, King's College London, and Research Group in Digital
+> Humanities, University of Western Sydney
+ 
+-----------------------------------------------------------------------------
+Mark D. LeBlanc, Ph.D.
+Meneely Professor of Computer Science
+Wheaton College, Norton, MA 02766
+508.286.3970
+
+http://cs.wheatoncollege.edu/mleblanc
+
+
+--[2]------------------------------------------------------------------------
+        Date: Wed, 7 May 2014 18:15:44 +0200
+        From: Joris van Zundert 
+        Subject: Re:  27.1026 social structures & experience?
+        In-Reply-To: <20140506191032.93A0660F7@digitalhumanities.org>
+
+
+Dear Willard,
+
+I sincerely doubted sending this in, and at several moments hovered with my
+finger above the trash can icon. But I guess Humanist should be the judge
+on this. I'm truly sorry but your subject, excerpt, and comment totally
+pushed my rant-button. However subjective, this is an account of true
+experience with an edge on social structureâ¦ handle with care I guess.
+
+â¦
+
+No, I don't think that boundary is moving at all. Let me explain that by
+telling a story. This is not my story. This is a story about a man who is a
+builder. He is a builder of software. In the true fashion of computer
+science he regards himself as a problem solver. But he is working in a
+humanities environment. This makes for some uncomfortable feelings of
+mismatch, as it turns out after a while that humanities has no problems to
+really solve. Our protagonist finds that humanities studies problems,
+offers perspectives, articulates possible meanings, paints a multitude of
+critical perceptions. Some arguments seem more valid than others, depending
+strongly on context, but all are seemingly valuable. But the harder our
+hero looks the fewer concrete problems of the type ""How do we make water
+run uphill?"" crop up.
+
+But then he discovers that at the bottom of the scientific building of
+humanities, in the trenches where information is gathered, structured, and
+offered for higher scrutiny, some problems-one-could-say emerge from
+repetitive, mind numbing, error prone, yet highly valuable tasks: churning
+out the primitives and primary data that humanities scholars need for their
+synthetic analysis. This is the realm of data entry and curation, of
+documentary and scholarly editing tasks that prepare the raw data to be
+refined through the hands of academic scholars. Here our hero finds a first
+application ground for his merit. Here's repetition. Here he can scale.
+Here he can help the humanities benefit from computing power.
+
+But the researchers do not quite see the scientific merit of that. If it is
+hard to v",vol28
+Humanist.vol29.txt,"Return-Path: 
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
+	s16382816.onlinehome-server.info
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.9 required=5.0 tests=ALL_TRUSTED,BAYES_00,
+	URIBL_BLOCKED autolearn=ham version=3.3.1
+X-Original-To: humanist-archiver@dhhumanist.org
+Delivered-To: humanist-archiver@dhhumanist.org
+Received: by digitalhumanities.org (Postfix, from userid 110)
+	id 473696656; Thu,  7 May 2015 10:07:35 +0200 (CEST)
+X-Original-To: humanist-archiver@digitalhumanities.org
+Delivered-To: humanist-archiver@digitalhumanities.org
+Received: from s16382816.onlinehome-server.info
+	(s16382816.onlinehome-server.info [127.0.0.1])
+	by digitalhumanities.org (Postfix) with ESMTP id 99B44664B;
+	Thu,  7 May 2015 10:07:34 +0200 (CEST)
+Received: by digitalhumanities.org (Postfix, from userid 10009)
+	id 784426648; Thu,  7 May 2015 10:07:31 +0200 (CEST)
+From: Humanist Discussion Group 
+To: humanist@lists.digitalhumanities.org
+MIME-Version: 1.0
+Message-Id: <20150507080731.784426648@digitalhumanities.org>
+Date: Thu,  7 May 2015 10:07:31 +0200 (CEST)
+Subject: [Humanist] 29.1 Happy Birthday Humanist!
+X-BeenThere: humanist@lists.digitalhumanities.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: Online seminar for digital humanities
+	
+Content-Type: text/plain; charset=""us-ascii""
+Content-Transfer-Encoding: 7bit
+Sender: humanist-bounces@lists.digitalhumanities.org
+Errors-To: humanist-bounces@lists.digitalhumanities.org
+X-PPP-Message-ID: <20150507080735.26699.24982@s16382816.onlinehome-server.info>
+X-PPP-Vhost: digitalhumanities.org
+
+                  Humanist Discussion Group, Vol. 29, No. 1.
+            Department of Digital Humanities, King's College London
+                       www.digitalhumanities.org/humanist
+                Submit to: humanist@lists.digitalhumanities.org
+
+
+
+        Date: Wed, 06 May 2015 09:52:04 +0100
+        From: Willard McCarty 
+        Subject: Happy Birthday Humanist!
+
+
+Remembrance of Humanist's past, from 7 May 1987, which I yearly celebrate,
+was this time triggered by something older. I was looking into the history
+of our discipline and serendipitously came across a chapter by Joseph Raben,
+""Content analysis and the study of poetry"", in a book on content analysis,
+The Analysis of Communication Content (1969), ed. Gerbner et al. In it Raben
+writes as follows:
+
+> This chapter, on possible inferences from the content analysis of
+> poetry, should alert us to the recognition of a reciprocal
+> relationship: critics and historians of literature may learn from the
+> content analysts a new and potentially valuable approach to their
+> subject matter, but an awareness of what this method, as presently
+> construed, cannot tell us when applied to literary art may broaden
+> the definition of content and spur us to find new ways of measuring
+> it. Such an extension is appropriate now, partly because the field is
+> new and therefore pliable enough to mold, and partly because attempts
+> are already being made to transfer the techniques evolved for
+> psychosociological investigations to what (for want of a better term)
+> we call ""creative"" writing. Not only must these techniques be greatly
+> refined before they can be properly used in this new application but
+> such refinement may also increase their utility in their original
+>  sphere.
+
+How widely, I found myself wondering, do we appreciate this form of
+reprocity? Ambient technological determinism works against it. The idea of
+impact and the billiard-ball theory of history behind that idea impedes it.
+Implementation services -- and, of course, the demand to show impact in
+scholarly work -- opposes any realization of it with institutional force.
+
+But here we have Joe Raben 46 years ago pointing to the relationship of
+reciprocity between the two phenomena named in the title of his journal,
+Computers and the Humanities. Experience suggests to me that we still
+struggle to realise it. This is so not only because articulating ideas or
+forms of research, many of them tacit, is difficult in computational terms.
+We struggle also, I suspect, because the cycle of reciprocal exchange
+between the two, as Langdon Winner points out in Autonomous Technology
+(1977), results in technomorphic humanity as well as anthropomorphic
+technology. Scary that. Easier just to lie down and be impacted?
+
+You may be thinking that this is a strange way to begin a birthday message
+to Humanist as it enters its 29th year -- even unprecedented, as presenters
+on the evening news programmes are fond of saying. But, since Joe was in the
+room when the idea of Humanist began, his disturbing words of alert are
+especially relevant. Humanist was intended originally to do something about
+our situation as then institutional, disciplinary pariahs. Now things are
+different, wonderfully so, but aren't they also the same, or nearly so, as
+far as Joe's disciplinary reciprocity is concerned? True, the lecture
+circuit for digital humanities is an information superhighway (to quote a
+quaint phrase), professorships are being advertised, PhDs being granted in
+the subject. But how much closer are we to being actively reciprocal in
+Raben's sense?
+
+Much of the reciprocity I suspect is hidden (because never published) in
+technical practice that surfaces when the demands of research in a
+humanities discipline run into the primitive state of the technology. The
+great challenge to the latter leads not only to inventions and clever
+work-arounds but also to the frustration that could, perhaps sometimes does,
+provide a glimpse of a better, a different computing. I wonder if the
+anxiety to prove itself valuable to its institutional betters turns digital
+humanities aside from such glimpses? Not that they are easy to get. Our
+pretty much total lack of the means to describe them stands in the way. I
+know, I use loads of words to say that I have none. :-)
+
+Allow me to suggest on this birthday, with Joe's help from long ago, that
+what matters is not what scholars know that they want or need but what they
+cannot get and mostly don't pause to investigate. Not reasonable hope but
+wild, impossible, frustrated desire. Decorously omitted from annual reports
+and workload models, of course, but the life-blood of Humanist and other
+worthy forums.
+
+Happy Birthday Humanist!
+
+Yours,
+WM
+
+--
+Willard McCarty (www.mccarty.org.uk/), Professor, Department of Digital
+Humanities, King's College London, and Digital Humanities Research
+Group, University of Western Sydney
+
+
+
+_______________________________________________
+Unsubscribe at: http://www.dhhumanist.org/Restricted/listmember_interface.php
+List posts to: humanist@lists.digitalhumanities.org
+List info and archives at at: http://digitalhumanities.org/humanist
+Listmember interface at: http://digitalhumanities.org/humanist/Restricted/listmember_interface.php
+Subscribe at: http://www.digitalhumanities.org/humanist/membership_form.php
+
+
+
+Return-Path: 
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
+	s16382816.onlinehome-server.info
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.9 required=5.0 tests=ALL_TRUSTED,BAYES_00,
+	URIBL_BLOCKED autolearn=ham version=3.3.1
+X-Original-To: humanist-archiver@dhhumanist.org
+Delivered-To: humanist-archiver@dhhumanist.org
+Received: by digitalhumanities.org (Postfix, from userid 110)
+	id 6B431665B; Thu,  7 May 2015 10:08:29 +0200 (CEST)
+X-Original-To: humanist-archiver@digitalhumanities.org
+Delivered-To: humanist-archiver@digitalhumanities.org
+Received: from s16382816.onlinehome-server.info
+	(s16382816.onlinehome-server.info [127.0.0.1])
+	by digitalhumanities.org (Postfix) with ESMTP id CD3C0664B;
+	Thu,  7 May 2015 10:08:28 +0200 (CEST)
+Received: by digitalhumanities.org (Postfix, from userid 10009)
+	id 70295664B; Thu,  7 May 2015 10:08:26 +0200 (CEST)
+From: Humanist Discussion Group 
+To: humanist@lists.digitalhumanities.org
+MIME-Version: 1.0
+Message-Id: <20150507080826.70295664B@digitalhumanities.org>
+Date: Thu,  7 May 2015 10:08:26 +0200 (CEST)
+Subject: [Humanist] 29.2 historians and serendipity
+X-BeenThere: humanist@lists.digitalhumanities.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: Online seminar for digital humanities
+	
+Content-Type: text/plain; charset=""us-ascii""
+Content-Transfer-Encoding: 7bit
+Sender: humanist-bounces@lists.digitalhumanities.org
+Errors-To: humanist-bounces@lists.digitalhumanities.org
+X-PPP-Message-ID: <20150507080829.26928.38083@s16382816.onlinehome-server.info>
+X-PPP-Vhost: digitalhumanities.org
+
+                  Humanist Discussion Group, Vol. 29, No. 2.
+            Department of Digital Humanities, King's College London
+                       www.digitalhumanities.org/humanist
+                Submit to: humanist@lists.digitalhumanities.org
+
+
+
+        Date: Wed, 06 May 2015 09:16:06 -0500
+        From: Andrew G Taylor 
+        Subject: Historians and serendipity [Re: Humanist Digest, Vol 80, Issue 5]
+        In-Reply-To: 
+
+
+Hi Caleb,
+
+You all may be interested in participating in this survey about 
+Historians and Serendipity.
+
+Have a good summer!  - best wishes, Andrew Taylor
+
+http://tinyurl.com/lm47wxo
+
+On 5/6/2015 5:00 AM, humanist-request@lists.digitalhumanities.org wrote:
+>          Date: Tue, 5 May 2015 11:48:07 -0400
+>          From: Kim 
+>          Subject: Call for participation: Historians and Serendipity
+> Hello,
+>   I am a PhD student investigating the role of serendipity in the historical
+> research process. Could you please share the following to help me garner
+> participants from the DH community?
+> Thank you!
+> Kim Martin
+> ---------------------------
+> For the past several years, my research as a PhD student in Library and
+> Information Science has allowed me to delve into the information behavior
+> of practicing historians. I?ve studied their use of technology, of both the
+> physical and digital library, and their communication behavior. I?ve
+> published on their awareness and knowledge of e-books, and am now looking
+> to develop one section of the findings from that paper into my the",vol29
+Humanist.vol30.txt,"Return-Path: 
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
+	s16382816.onlinehome-server.info
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.9 required=5.0 tests=ALL_TRUSTED,BAYES_00,
+	URIBL_BLOCKED autolearn=ham version=3.3.1
+X-Original-To: humanist-archiver@dhhumanist.org
+Delivered-To: humanist-archiver@dhhumanist.org
+Received: by digitalhumanities.org (Postfix, from userid 110)
+	id 4CB9A241E; Sat,  7 May 2016 09:56:59 +0200 (CEST)
+X-Original-To: humanist-archiver@digitalhumanities.org
+Delivered-To: humanist-archiver@digitalhumanities.org
+Received: from s16382816.onlinehome-server.info
+	(s16382816.onlinehome-server.info [127.0.0.1])
+	by digitalhumanities.org (Postfix) with ESMTP id AB0AE2404;
+	Sat,  7 May 2016 09:56:55 +0200 (CEST)
+Received: by digitalhumanities.org (Postfix, from userid 10009)
+	id DFA882403; Sat,  7 May 2016 09:56:47 +0200 (CEST)
+From: Humanist Discussion Group 
+To: humanist@lists.digitalhumanities.org
+MIME-Version: 1.0
+Message-Id: <20160507075647.DFA882403@digitalhumanities.org>
+Date: Sat,  7 May 2016 09:56:47 +0200 (CEST)
+Subject: [Humanist] 30.1 Happy Birthday Humanist!
+X-BeenThere: humanist@lists.digitalhumanities.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: Online seminar for digital humanities
+	
+Content-Type: text/plain; charset=""utf-8""
+Content-Transfer-Encoding: base64
+Sender: humanist-bounces@lists.digitalhumanities.org
+Errors-To: humanist-bounces@lists.digitalhumanities.org
+X-PPP-Message-ID: <20160507075658.5513.46478@s16382816.onlinehome-server.info>
+X-PPP-Vhost: digitalhumanities.org
+
+
+                  Humanist Discussion Group, Vol. 30, No. 1.
+            Department of Digital Humanities, King's College London
+                       www.digitalhumanities.org/humanist
+                Submit to: humanist@lists.digitalhumanities.org
+
+  [1]   From:    Willard McCarty           (69)
+        Subject: Happy Birthday Humanist (7 May 1987--)
+
+  [2]   From:    Andrew Prescott            (14)
+        Subject: Significant event
+
+
+--[1]------------------------------------------------------------------------
+        Date: Sat, 7 May 2016 08:27:59 +0100
+        From: Willard McCarty 
+        Subject: Happy Birthday Humanist (7 May 1987--)
+
+
+Humanist begins its 30th year today. As we mark birthdays, this is its 29th
+birthday, but as you will see in the following message, some think it's time
+to celebrate.
+
+How time passes, if that it what it does, whatever it is. We all know that
+different kinds of biological creatures live their lives at different rates,
+dogs as I recall at seven times the rate of us humans. Our technological
+creatures because of technological progress, metaphorically speaking, live
+out their lives at a very fast rate indeed, though not as fast as insects.
+Social institutions tend to develop very slowly in relation to ourselves and
+to last a very long time. But then we have the liberty of constructing their
+continuity in retrospect. We calculate the 'life' of the library in
+millennia, for example. So where does this leave Humanist, a mixture of
+biologically based activity, technological means and social institution?
+
+Humanist began, as some here will know already, in order to bring a few
+people, scattered around the world but mostly in N America and the UK,
+together to serve as a common does in a small village and to do this well.
+(At the time this meant publishing messages without typos, spelling errors
+and messed-up formatting.) It was then almost the only such thing available.
+But as other services, e.g. personal blogs and Twitter, have come online its
+most important function to my mind, perhaps now more obviously than before,
+is to raise and discuss substantive questions about the developing nature of
+digital humanities, the epistemology of computing, its social effects and
+the like and how these draw on and contribute to the older disciplines.
+
+An example might help here. Recently, commenting on the text of a
+lecture I've just finished, an friend of mine wrote back to say,
+
+> on the difficult topic of intuition, Aristotle, usually a stickler
+> for the straight and narrow, makes a point about quickwittedness
+> (agchinoia), that it is a sort of ability to hit the mark (eustochia)
+> (Nicomachean Ethics 1142b5ff.). This ability turns out to be a matter
+> of spotting the similarity in things that are far apart, he adds
+> 'even in philosophy', i.e. not just in poetry and rhetoric (Rhetoric
+> 1412a9ff). Like really good metaphor it is not a skill that can be
+> learnt (Poetics 1459a5, Rhetoric 1405a9f.). That does not tell us
+> which analogies/metaphors/resemblances are the good ones. But it is
+> striking that Aristotle, the arch deductivist, recognises their
+> power. He is still talking about humans of course and he has no
+> models of machines that would enable him to take your computers on
+> board. But insofar as these passages see analogising as the key, he
+> opens the door to a dialogue with you, as it seems to me.
+
+and to a dialogue between us and the philosophers interested in such
+matters. What does it mean to take computers on board in the light of
+such questions?
+
+The Humanist common remains despite the pull of the older disciplines on
+activities with computing that happen to concern them in particular.
+Sometimes I wonder if and sometimes am certain that colleagues in those
+disciplines (unlike my friend) simply don't see that what concerns them
+mutatis mutandis concerns everyone, and that its particular form in this or
+that discipline tells us all something important about digital epistemology,
+anthropology, sociology or whatever. Will it turn out to be that a small
+band of interdisciplinary raiders continues to have far too much work to do
+merely in gathering together insights from across the disciplines?
+
+Perhaps I should not, especially on Humanist's birthday, be complaining.
+Being such a raider is what I enjoy most. But in the course of an ordinary
+life birthdays rather soon become occasions on which the fact of mortality
+is hard to avoid. Usually the upcoming 30th marks the end of youth, the
+beginning of serious maturity, when people (such as parents) begin to wonder
+out loud when you're going to settle down, have children, buy a house, get a
+mortgage etc. I think the anti-DH sentiment recently marked here might well
+be interpreted as just such a sharp parental question. At least sometimes if
+not often this question has the odour of a death-sentence. Personally I
+think we should answer it on behalf of Humanist and the field it stands for
+by enacting a plan for becoming differently, more interestingly, more
+intelligently wild.
+
+Happy birthday to us all!
+
+Yours,
+WM
+--
+Willard McCarty (www.mccarty.org.uk/), Professor, Department of Digital
+Humanities, King's College London
+
+--[2]------------------------------------------------------------------------
+        Date: Thu, 5 May 2016 16:01:26 +0000
+        From: Andrew Prescott 
+        Subject: Significant event
+
+
+Dear Willard,
+
+Greetings from Rome via a very flaky internet connection to congratulate you and Humanist on a significant event on 7 May, when the Humanist numbering system will flick over to 30, signifying that Humanist is entering its thirtieth year of operation, moving towards its thirtieth birthday on 7 May 2017. Thirty years of a daily stream of thought-provoking, entertaining, intellectually rigorous, informative and useful postings is an amazing achievement. Humanist has played a fundamental role in the emergence of the digital humanities and has shown how new technologies can enable new disciplinary alignments.
+
+Some of Humanist's admirers have been plotting to mark Humanist's achievement, and we cannot think of a better way of doing so than as part of the U.K. National festival of the humanities, 'Being Human', which takes place this year from 17-25 November 2016. Professor Jane Winters of the School of Advanced Study at the University of London and I will be organising an event during the festival to mark Humanistâs tyhirtieth year of operation, and further details will be given here when the programme for the festival is announced. We will be producing a digital representation of the event, which wil be linked back to material from the Humanist annals, and will be made available on Humanistâs 30th birthday in 2017.
+
+In the meantime, Willard and Humanist, here's a Peroni beer toast to your wonderful achievement.
+
+Andrew
+
+Andrew Prescott FSA FRHistS
+Professor of Digital Humanities
+AHRC Theme Leader Fellow for Digital Transformations
+University of Glasgow
+
+andrew.prescott@glasgow.ac.uk
+@ajprescott
+07743895209
+
+
+
+
+
+
+
+_______________________________________________
+Unsubscribe at: http://www.dhhumanist.org/Restricted/listmember_interface.php
+List posts to: humanist@lists.digitalhumanities.org
+List info and archives at at: http://digitalhumanities.org/humanist
+Listmember interface at: http://digitalhumanities.org/humanist/Restricted/listmember_interface.php
+Subscribe at: http://www.digitalhumanities.org/humanist/membership_form.php
+
+
+Return-Path: 
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
+	s16382816.onlinehome-server.info
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.9 required=5.0 tests=ALL_TRUSTED,BAYES_00,
+	URIBL_BLOCKED autolearn=ham version=3.3.1
+X-Original-To: humanist-archiver@dhhumanist.org
+Delivered-To: humanist-archiver@dhhumanist.org
+Received: by digitalhumanities.org (Postfix, from userid 110)
+	id 49FD32424; Sat,  7 May 2016 09:57:54 +0200 (CEST)
+X-Original-To: humanist-archiver@digitalhumanities.org
+Delivered-To: humanist-archiver@digitalhumanities.org
+Received: from s16382816.onlinehome-server.info
+	(s16382816.onlinehome-server.info [127.0.0.1])
+	by digitalhumanities.org (Postfix) with ESMTP id 8EE9E2423;
+	Sat,  7 May 2016 09:57:53 +0200 (CEST)
+Received: by digitalhumanities.org (Postfix, from userid 10009)
+	id 64587241F; Sat, ",vol30
+Humanist.vol31.txt,"Return-Path: 
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
+	s16382816.onlinehome-server.info
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.9 required=5.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+X-Original-To: humanist-archiver@dhhumanist.org
+Delivered-To: humanist-archiver@dhhumanist.org
+Received: by digitalhumanities.org (Postfix, from userid 110)
+	id D4A9E18BA; Sun,  7 May 2017 09:53:16 +0200 (CEST)
+X-Original-To: humanist-archiver@digitalhumanities.org
+Delivered-To: humanist-archiver@digitalhumanities.org
+Received: from s16382816.onlinehome-server.info
+	(s16382816.onlinehome-server.info [127.0.0.1])
+	by digitalhumanities.org (Postfix) with ESMTP id 9482018B8;
+	Sun,  7 May 2017 09:53:15 +0200 (CEST)
+Received: by digitalhumanities.org (Postfix, from userid 10009)
+	id DD59F1888; Sun,  7 May 2017 09:53:13 +0200 (CEST)
+From: Humanist Discussion Group 
+To: humanist@lists.digitalhumanities.org
+MIME-Version: 1.0
+Message-Id: <20170507075313.DD59F1888@digitalhumanities.org>
+Date: Sun,  7 May 2017 09:53:13 +0200 (CEST)
+Subject: [Humanist] 31.1 happy 30th birthday!
+X-BeenThere: humanist@lists.digitalhumanities.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: Online seminar for digital humanities
+	
+Content-Type: text/plain; charset=""us-ascii""
+Content-Transfer-Encoding: 7bit
+Sender: humanist-bounces@lists.digitalhumanities.org
+Errors-To: humanist-bounces@lists.digitalhumanities.org
+X-PPP-Message-ID: <20170507075316.4380.79964@s16382816.onlinehome-server.info>
+X-PPP-Vhost: digitalhumanities.org
+
+
+                  Humanist Discussion Group, Vol. 31, No. 1.
+            Department of Digital Humanities, King's College London
+                       www.digitalhumanities.org/humanist
+                Submit to: humanist@lists.digitalhumanities.org
+
+
+
+        Date: Sun, 7 May 2017 08:36:04 +0100
+        From: Willard McCarty 
+        Subject: Happy 30th birthday
+
+Dear colleagues,
+
+It is a sign of age in more than one sense, and I would like to think of 
+maturity, that this 30th birthday of Humanist almost passed without my 
+noticing. I only noticed because the automatic changeover of volume and 
+issue to 30.1 caught my eye. It may also be more evidence that reliance 
+on automata, for example in my diary reminders of appointments, 
+birthdays etc, has gradually offloaded more and more bits of my 
+attentiveness. There's the clever app which tells me it's time to go to 
+bed in order to get a full 8 hours of sleep, and then wakes me up with 
+birdsong. There's the app which times the brushing of teeth. And there 
+are many other possibilities to set reminders of this and that, and 
+wearable devices to give you a tap on the wrist. A good thing or a bad 
+thing, or simply a thing? If attentiveness were like a bank account which 
+is depleted by direct debits, then automation would be unambiguously 
+depriving us of mental wealth. But it isn't. Is it?
+
+Jessica Riskin's The Restless Clock (2016) tells us that there are 
+precedents going back much further than digital machines. She plays with 
+the idea of agency, divorcing consciousness from it, to come up with her 
+thesis that machines are agents by being unpredictable. (If that's the 
+case, then as Herman Goldstine and John von Neumann argued in 1947, the 
+stored-program computer has been an agent from the get-go.) 
+Interestingly she discusses the holy and unholy machines of the late 
+medieval and early modern periods, arguing that their agency, as far as 
+the pious were concerned, materialised for their time, for them, the 
+beings their automata (shifting metaphysical gears) represented. We can 
+do the same with ours for our time? 
+
+After 30 years, now beginning the 31st, with popularity a major problem, 
+with academic appointments secured, postdocs too, PhD degrees on offer, 
+in progress and achieved, the dream conceived in protest in Columbia, 
+South Carolina, in 1987, with Michael Sperberg-McQueen and others in a 
+group of disgruntled outsiders, has to be redreamt. It seems to me that 
+what's been achieved or simply come about for us to celebrate is not 
+demolition of what once seemed an unbreachable stone wall but the 
+opportunity to do unexpected and interesting things. Disciplines, I like 
+to say and do believe, are starting points, not -- except for those 
+whose ambitions go no further -- points of arrival or clubs to be 
+joined. I come back to the closing sentences in Geoffrey Lloyd's The 
+Ambitions of Curiosity: Understanding the World in Ancient Greece and 
+China (2002) -- read it tonight!
+
+> Both societies, I have suggested, developed basic human capacities
+> for curiosity in intriguing and ingenious ways. But in both, the
+> ambitions of curiosity were just that, just ambitions. But what
+> ambitions: for in one context after another, they held out the hope
+> of understanding what had never been understood before.
+
+If we can understand this for ourselves and our own amorphous society -- 
+that we hold out such hope -- then I think we have cause to celebrate 
+this Sunday morning birthday.
+
+Yours,
+WM
+
+-- 
+Willard McCarty (www.mccarty.org.uk/), Professor, Department of Digital
+Humanities, King's College London; Adjunct Professor, Western Sydney
+University and North Carolina State University; Editor,
+Interdisciplinary Science Reviews (www.tandfonline.com/loi/yisr20)
+
+
+_______________________________________________
+Unsubscribe at: http://www.dhhumanist.org/Restricted/listmember_interface.php
+List posts to: humanist@lists.digitalhumanities.org
+List info and archives at at: http://digitalhumanities.org/humanist
+Listmember interface at: http://digitalhumanities.org/humanist/Restricted/listmember_interface.php
+Subscribe at: http://www.digitalhumanities.org/humanist/membership_form.php
+
+
+
+Return-Path: 
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
+	s16382816.onlinehome-server.info
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.9 required=5.0 tests=ALL_TRUSTED,BAYES_00
+	autolearn=ham version=3.3.1
+X-Original-To: humanist-archiver@dhhumanist.org
+Delivered-To: humanist-archiver@dhhumanist.org
+Received: by digitalhumanities.org (Postfix, from userid 110)
+	id 44AC318C9; Sun,  7 May 2017 09:54:03 +0200 (CEST)
+X-Original-To: humanist-archiver@digitalhumanities.org
+Delivered-To: humanist-archiver@digitalhumanities.org
+Received: from s16382816.onlinehome-server.info
+	(s16382816.onlinehome-server.info [127.0.0.1])
+	by digitalhumanities.org (Postfix) with ESMTP id 7DD6618C4;
+	Sun,  7 May 2017 09:54:02 +0200 (CEST)
+Received: by digitalhumanities.org (Postfix, from userid 10009)
+	id DC4BED5A; Sun,  7 May 2017 09:53:59 +0200 (CEST)
+From: Humanist Discussion Group 
+To: humanist@lists.digitalhumanities.org
+MIME-Version: 1.0
+Message-Id: <20170507075359.DC4BED5A@digitalhumanities.org>
+Date: Sun,  7 May 2017 09:53:59 +0200 (CEST)
+Subject: [Humanist] 31.2 review of software for digital critical editions
+X-BeenThere: humanist@lists.digitalhumanities.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: Online seminar for digital humanities
+	
+Content-Type: text/plain; charset=""utf-8""
+Content-Transfer-Encoding: base64
+Sender: humanist-bounces@lists.digitalhumanities.org
+Errors-To: humanist-bounces@lists.digitalhumanities.org
+X-PPP-Message-ID: <20170507075403.4678.10171@s16382816.onlinehome-server.info>
+X-PPP-Vhost: digitalhumanities.org
+
+
+                  Humanist Discussion Group, Vol. 31, No. 2.
+            Department of Digital Humanities, King's College London
+                       www.digitalhumanities.org/humanist
+                Submit to: humanist@lists.digitalhumanities.org
+
+
+
+        Date: Sat, 6 May 2017 06:34:55 -0300
+        From: Roger Gillis 
+        Subject: Re:  30.953 review of software for digital critical editions?
+        In-Reply-To: <20170506065619.4EDFD1899@digitalhumanities.org>
+
+
+Hello Charles,
+
+You might be interested in the Catalogue of Digital Editions:
+https://dig-ed-cat.eos.arz.oeaw.ac.at/
+
+While this does not lay out the information regarding critical edition
+exactly as you may be looking for - you can browse projects that are hosted
+on various digital edition platforms.
+
+There's also the DIRT directory: https://dirtdirectory.org/
+
+This may contain more relevant information to your search for specific
+platforms/tools and their pros and cons.
+
+Best regards,
+
+Roger Gillis
+Copyright/Digital Humanities Librarian
+Dalhousie University
+
+On Sat, May 6, 2017 at 3:56 AM, Humanist Discussion Group <
+willard.mccarty@mccarty.org.uk> wrote:
+
+>                  Humanist Discussion Group, Vol. 30, No. 953.
+>             Department of Digital Humanities, King's College London
+>                        www.digitalhumanities.org/humanist
+>                 Submit to: humanist@lists.digitalhumanities.org
+>
+>
+>
+>         Date: Fri, 5 May 2017 09:56:42 -0700
+>         From: Charles Faulhaber 
+>         Subject: Electronic critical editions software review
+>
+>
+> Dear Colleagues,
+>
+> For a panel discussion next week I would be extremely grateful if someone
+> could point me toward a discussion of available software packages for
+> electronic critical editions, with pros and cons for each package.
+>
+> For those in the U.S. there is a well-known magazine called *Consumer
+> Reports, *which reviews everything from automobiles to dishwashers to
+> lawnmowersâbut, alas, not software packages like this. But thatâs what Iâd
+> like to see.
+>
+> Much of what I see is ten years old and the more recent materials (e.g.,
+> Schraibman et al 2016, McCarty 2013) tend not to descend to the level of
+> detail I am interested in.
+>
+> Many thanks,
+>
+> Charles Faulhaber
+>
+> UC Berkeley
+
+
+_______________________________________________
+Unsubscribe at: http://www.dhhumanist.org/Restricted/listmember_interface.php
+List posts to: humanist@lists.digitalhumanities.org
+List info and archives at at: http://digitalhumanities.org/humanist
+Listmember interface at: http://digitalhumanities.org/humanist/Restricted/listmem",vol31
+Humanist.vol32.txt,"Return-Path: 
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
+	s16382816.onlinehome-server.info
+X-Spam-Level: 
+X-Spam-Status: No, score=-3.9 required=5.0 tests=ALL_TRUSTED,BAYES_00,
+	MAILING_LIST_MULTI,URIBL_BLOCKED autolearn=ham version=3.3.1
+X-Original-To: humanist-archiver@dhhumanist.org
+Delivered-To: humanist-archiver@dhhumanist.org
+Received: by s16382816.onlinehome-server.info (Postfix, from userid 110)
+	id DE4BC1357; Mon,  7 May 2018 07:24:17 +0200 (CEST)
+X-Original-To: humanist-archiver@digitalhumanities.org
+Delivered-To: humanist-archiver@digitalhumanities.org
+Received: from s16382816.onlinehome-server.info
+	(s16382816.onlinehome-server.info [127.0.0.1])
+	by s16382816.onlinehome-server.info (Postfix) with ESMTP id A03231365; 
+	Mon,  7 May 2018 07:24:14 +0200 (CEST)
+Received: by s16382816.onlinehome-server.info (Postfix, from userid 10009)
+	id 21DFC11DD; Mon,  7 May 2018 07:24:09 +0200 (CEST)
+From: Humanist Discussion Group 
+To: humanist@lists.digitalhumanities.org
+MIME-Version: 1.0
+Message-Id: <20180507052410.21DFC11DD@s16382816.onlinehome-server.info>
+Date: Mon,  7 May 2018 07:24:09 +0200 (CEST)
+Subject: [Humanist] 32.1 9th European Summer University (Leipzig)
+X-BeenThere: humanist@lists.digitalhumanities.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: Online seminar for digital humanities
+	
+Content-Type: text/plain; charset=""utf-8""
+Content-Transfer-Encoding: base64
+Sender: humanist-bounces@lists.digitalhumanities.org
+Errors-To: humanist-bounces@lists.digitalhumanities.org
+X-PPP-Message-ID: <20180507052416.19293.62203@s16382816.onlinehome-server.info>
+X-PPP-Vhost: digitalhumanities.org
+
+                  Humanist Discussion Group, Vol. 32, No. 1.
+            Department of Digital Humanities, King's College London
+                       www.digitalhumanities.org/humanist
+                Submit to: humanist@lists.digitalhumanities.org
+
+
+
+        Date: Sun, 06 May 2018 20:21:06 +0200
+        From: Elisabeth Burr 
+        Subject: ""Culture & Technology"" - 9th European Summer University in Digital Humanities 17th to 27th July 2018 Leipzig - new deadline
+
+
+""CULTURE & TECHNOLOGY"" - 
+9TH EUROPEAN SUMMER UNIVERSITY 
+IN DIGITAL HUMANITIES (ESU DH C & T) - 
+17TH TO 27TH JULY 2018, 
+UNIVERSITY OF LEIPZIG 
+HTTP://WWW.CULINGTEC.UNI-LEIPZIG.DE/ESU_C_T/
+
+Although we have received more than enough applications we have decided 
+to extend the application phase to the 20th of May 2018 in order to give 
+those people a chance who could not manage to upload their application 
+before the deadline (see: 
+http://www.culingtec.uni-leipzig.de/ESU_C_T/node/915).
+
+Not all the workshops can, however, take more applications (see 
+http://www.culingtec.uni-leipzig.de/ESU_C_T/node/921). Only in the 
+following workshops there is still a small number of places available 
+(please note that workshops run in parallel: 
+http://www.culingtec.uni-leipzig.de/ESU_C_T/node/953):
+
+     Carol Chiodo (Yale University, USA) / Lauren Tilton (University of 
+Richmond, USA): Hands on Humanities Data Workshop - Creation, Discovery 
+and Analysis (2 weeks)
+     Isabel Fuhrmann (Berlin-Brandenburgische Akademie der Wissenschaften 
+Berlin, Germany) / Erhard Hinrichs / Yana Strakatova (UniversitÃ¤t 
+TÃ¼bingen, Germany): Collocations from a multilingual perspective: 
+theory, tools, and applications (1st week)
+     Nils Reiter / Sarah Schulz (UniversitÃ¤t Stuttgart, Germany): 
+Reflected Text Analysis in the Digital Humanities (2nd week)
+     David Joseph Wrisley (New York University Abu Dhabi, UAE) / Randa El 
+Khatib (University of Victoria, Canada): Humanities Data and Mapping 
+Environments (2 weeks)
+     Laszlo Hunyadi / IstvÃ¡n SzekrÃ©nyes (University of Debrecen, 
+Hungary): Building and analysing multimodal corpora (2 weeks)
+     Maciej Eder (Polish Academy of Sciences / Pedagogical University, 
+Cracow, Poland) / Jeremi Ochab (Jagiellonian University, Cracow, 
+Poland): Stylometry (2 weeks)
+     Christoph Draxler (UniversitÃ¤t MÃ¼nchen, Germany) / Thorsten Trippel 
+(Eberhard-Karls UniversitÃ¤t TÃ¼bingen, Germany): Asking questions to data 
+in the humanities: right, correct, efficient (Introducing and comparing 
+XQuery, SQL, SPARQL for data from the humanities) (2 weeks)
+     Peter Bell (Heidelberg Academy of Science and Humanities, Germany) / 
+Leonardo Impett (Ãcole Polytechnique FÃ©dÃ©rale de Lausanne, Switzerland): 
+Computer Vision Intervention. How digital methods help to visually 
+understand corpora of art and cultural heritage (1st week)
+     Nicola Carboni (Harvard Institut ""Villa I Tatti"", Firenze, Italy) / 
+Leo Zorc (UniversitÃ¤t ZÃ¼rich / ETH ZÃ¼rich, Switzerland): Integrating 
+Human Science Data using CIDOC-CRM as Formal Ontology: a practical 
+approach (2nd week)
+     Tommi A Pirinen (UniversitÃ¤t Hamburg, Germany): The humanities 
+scholar's perspective on rule based machine translation (2 weeks)
+     Jochen Tiepmar (ScaDS, University of Leipzig / University of 
+Dresden, Germany): Text Mining with Canonical Text Services (2nd week)
+     Heike Neuroth / Ulrike Wuttke (University of Applied Sciences 
+Potsdam): How Research Infrastructures empower eHumanities and eHeritage 
+Research(ers) (1st week)
+     Lynne Siemens (University of Victoria, Canada): Introduction to 
+Project Management (2nd week)
+
+Workshops are structured in such a way that participants can either take 
+the two blocks of one workshop or two blocks from different workshops. 
+The number of participants in each workshop is limited to 10.
+
+We can also *not* take more applications for CLARIN-D and ETCL 
+fellowships. We received about three times more applications than the 
+number of fellowships available.
+
+The Summer University takes place across 11 whole days. The intensive 
+programme consists of workshops, public lectures, regular project 
+presentations, a poster session, teaser sessions and a panel discussion.
+
+The Summer University is directed at 60 participants from all over 
+Europe and beyond. It wants to bring together (doctoral) students, young 
+scholars and academics from the Arts and Humanities, Library Sciences, 
+Social Sciences, the Arts and Engineering and Computer Sciences as equal 
+partners to an interdisciplinary exchange of knowledge and experience in 
+a multilingual and multicultural context and thus create the conditions 
+for future project-based cooperations.
+
+The Leipzig Summer University is special because it not only seeks to 
+offer a space for the discussion and acquisition of new knowledge, 
+skills and competences in those computer technologies which play a 
+central role in Humanities Computing and which determine every day more 
+and more the work done in the Humanities and Cultural Sciences, as well 
+as in publishing, libraries, and archives etc., but because it tries to 
+integrate also linguistics with the Digital Humanities, which pose 
+questions about the consequences and implications of the application of 
+computational methods and tools to cultural artefacts of all kinds.
+
+It is special furthermore because it consciously aims at confronting the 
+so-called Gender Divide , i.e. the under-representation of women in the 
+domain of Information and Communication Technologies (ICT) in Germany, 
+Europe and many parts of the world, by relying on the challenges that 
+the Humanities with their complex data and their wealth of women 
+represent for Computer Science and Engineering and the further 
+development of the latter, on the overcoming of the boarders between the 
+so-called hard and soft sciences and on the integration of Humanities, 
+Computer Science and Engineering.
+
+As the Summer University is dedicated not only to the acquisition of 
+knowledge and skills, but also wants to foster community building and 
+networking across disciplines, languages and cultures, countries and 
+continents, the programme of the Summer School features also communal 
+coffee breaks, communal lunches in the refectory of the university, and 
+a rich cultural programme (thematic guided tours, visits of archives, 
+museums and exhibitions, and communal dinners in different parts of 
+Leipzig).
+
+For all relevant information please consult the Web-Portal of the 
+European Summer School in Digital Humanities ""Culture & Technology"": 
+http://www.culingtec.uni-leipzig.de/ESU_C_T/ which will be continually 
+updated and integrated with more information as soon as it becomes 
+available.
+
+If you have questions with respect to the European Summer University 
+please direct them to esu_ct@uni-leipzig.de
+
+ESU DH C & T is a member of the International Digital Humanities 
+Training Network.
+
+Elisabeth Burr
+
+_______________________________________________
+Unsubscribe at: http://www.dhhumanist.org/Restricted/listmember_interface.php
+List posts to: humanist@lists.digitalhumanities.org
+List info and archives at at: http://digitalhumanities.org/humanist
+Listmember interface at: http://digitalhumanities.org/humanist/Restricted/listmember_interface.php
+Subscribe at: http://www.digitalhumanities.org/humanist/membership_form.php
+
+
+Return-Path: 
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
+	s16382816.onlinehome-server.info
+X-Spam-Level: 
+X-Spam-Status: No, score=-3.9 required=5.0 tests=ALL_TRUSTED,BAYES_00,
+	MAILING_LIST_MULTI,URIBL_BLOCKED autolearn=ham version=3.3.1
+X-Original-To: humanist-archiver@dhhumanist.org
+Delivered-To: humanist-archiver@dhhumanist.org
+Received: by s16382816.onlinehome-server.info (Postfix, from userid 110)
+	id 6A353137B; Mon,  7 May 2018 07:28:14 +0200 (CEST)
+X-Original-To: humanist-archiver@digitalhumanities.org
+Delivered-To: humanist-archiver@digitalhumanities.org
+Received: from s16382816.onlinehome-server.info
+	(s16382816.onlinehome-server.info [127.0.0.1])
+	by s16382816.onlinehome-server.info (Postfix) with ESMTP id C3A181372; 
+	Mon,  7 May 2018 07:28:13 +0200 (CEST)
+Received: by s16382816.onlinehome-server.info (Postfix, from userid 10009)
+	id A31871377; Mon,  7 May 2018 07:28:09 +0200 (CEST)
+From: Humanist Discussion Group 
+To: humanist@lists.digitalhumani",vol32
